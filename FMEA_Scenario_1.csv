@@ -1,0 +1,21 @@
+﻿ID,Cause,Asset,Failure Mode,Base effect,Additional effect,Safety,Reputation,Nature
+1,Brake system failure,rotor,extreme overspeed,"Cost, downtime ","Collapse filmed, international news media. Some 300 complaints. 5 km2 lightly polluted.",,2,4
+2,Collision with flock of birds,Blade,Rupture,"Cost, downtime ","Collision filmed, national news media; 80 complaints.  ",,1,
+3,"Construction error (misalignment, bolts not tightened)",main shaft,vibration (forced shutdown),"Cost, downtime ",,,,
+4,Construction error,gearbox,oil lekage,"Cost, downtime ",Slippery floor,1,,
+5,construction error,transformer,leakage,"Cost, downtime ","200 ltr oil spilled into sea, 0,8 km2 lightly polluted.",,,3
+6,Contamination (salt build up),transformer,trip (forced shutdown),"Cost, downtime ",,,,
+7,Corrosion,tower,loss of strength,"Cost, downtime ",,,,
+8,Extreme weather,blade,edge crack,"Cost, downtime ",,,,
+9,Extreme weather,substructure,crack,"Cost, downtime ",,,,
+10,Extreme weather,tower,vibration (forced shutdown),"Cost, downtime ",,,,
+11,Imbalance,Blade,vibration (forced shutdown),"Cost, downtime ",,,,
+12,Incorrect input,brake system,trip (forced shutdown),"Cost, downtime ",,,,
+13,Incorrect input,pitch system,trip (forced shutdown),"Cost, downtime ",,,,
+14,Incorrect input,yaw system,trip (forced shutdown),"Cost, downtime ",,,,
+15,market demand,vessel,Being unavailable,"Cost, downtime ",,,,
+16,overload,gearbox,Tooth failure,"Cost, downtime ",,,,
+17,slippery stair,personnel,falling,"Cost, downtime ",Long absence,3,,
+18,ventilation error,generator,overheating (forced Shutdown),"Cost, downtime ",,,,
+19,Voltage spike,generator,trip (forced shutdown),"Cost, downtime ",,,,
+20,Wear,Cable,Short circuit,"Cost, downtime ",,,,

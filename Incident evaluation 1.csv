@@ -1,0 +1,1101 @@
+﻿IncidentID,Date,Tower,Description,Repair Cost,Downtime,Non-financial impact,Total Severity
+1,05/01/2011,26,Construction error of the gearbox resulted in oil Leakage. Impact: Slippery floor,7449,24,Slippery floor,2
+2,09/01/2011,7,Incorrect input for the pitch system resulted in trip (forced shutdown).,2443,48,,1
+3,15/01/2011,22,Construction error of the gearbox resulted in oil Leakage. Impact: Slippery floor,6504,23,Slippery floor,1
+4,20/01/2011,18,Contamination (salt build up) on the transformer resulted in trip (forced shutdown).,5569,45,,2
+5,27/01/2011,6,Construction error of the gearbox resulted in oil Leakage. Impact: Slippery floor,7219,26,Slippery floor,2
+6,28/01/2011,15,Incorrect input for the pitch system resulted in trip (forced shutdown).,2486,52,,2
+7,03/02/2011,33,Extreme weather resulted in tower vibration (forced shutdown).,3299,77,,2
+8,05/02/2011,6,Voltage spike for the generator resulted in trip (forced shutdown).,2365,48,,1
+9,10/02/2011,14,Slippery stairs resulted in personnel falling. Impact: Long absence,1500,0,Long absence,3
+10,13/02/2011,36,Incorrect input for the yaw system resulted in trip (forced shutdown).,2562,46,,1
+11,13/02/2011,7,Imbalance of the blade resulted in vibration (forced shutdown).,19156,65,,2
+12,17/02/2011,11,Voltage spike for the generator resulted in trip (forced shutdown).,2470,44,,1
+13,19/02/2011,1,Overload of the gearbox resulted in tooth failure.,65719,170,,2
+14,24/02/2011,20,Market demand on the vessel resulted in it being unavailable .,1500,75,,2
+15,02/03/2011,35,Incorrect input for the pitch system resulted in trip (forced shutdown).,2612,45,,1
+16,06/03/2011,17,Extreme weather resulted in tower vibration (forced shutdown).,3233,78,,2
+17,10/03/2011,15,"Construction error (misalignment, bolts not tightened) for the main shaft resulted in vibration (forced shutdown).",2413,51,,2
+18,15/03/2011,29,Wear of the cable resulted in short circuit.,50498,169,,2
+19,22/03/2011,19,Ventilation error for the generator resulted in overheating (forced shutdown).,2403,46,,1
+20,22/03/2011,7,"Construction error (misalignment, bolts not tightened) for the main shaft resulted in vibration (forced shutdown).",2490,48,,1
+21,29/03/2011,8,Imbalance of the blade resulted in vibration (forced shutdown).,18510,66,,2
+22,30/03/2011,14,Incorrect input for the pitch system resulted in trip (forced shutdown).,2526,44,,1
+23,03/04/2011,5,Construction error of the gearbox resulted in oil Leakage. Impact: Slippery floor,6393,25,Slippery floor,2
+24,03/04/2011,35,Incorrect input for the yaw system resulted in trip (forced shutdown).,2319,49,,1
+25,05/04/2011,26,Incorrect input for the yaw system resulted in trip (forced shutdown).,2563,48,,1
+26,10/04/2011,32,Contamination (salt build up) on the transformer resulted in trip (forced shutdown).,6355,50,,2
+27,14/04/2011,28,Contamination (salt build up) on the transformer resulted in trip (forced shutdown).,5543,45,,2
+28,17/04/2011,20,"Brake system failure of the rotor resulted in extreme overspeed=> tower collapse. Impact: Collapse filmed, international news media. Some 300 complaints. 5 km2 lightly polluted.",3270725,4268,"Collapse filmed, international news media. Some 300 complaints. 5 km2 lightly polluted.",4
+29,21/04/2011,35,Voltage spike for the generator resulted in trip (forced shutdown).,2674,45,,1
+30,26/04/2011,7,Imbalance of the blade resulted in vibration (forced shutdown).,19489,75,,2
+31,28/04/2011,18,Incorrect input for the brake system resulted in trip (forced shutdown).,2499,48,,1
+32,30/04/2011,12,Contamination (salt build up) on the transformer resulted in trip (forced shutdown).,6437,51,,2
+33,06/05/2011,13,Contamination (salt build up) on the transformer resulted in trip (forced shutdown).,6917,51,,2
+34,07/05/2011,33,Ventilation error for the generator resulted in overheating (forced shutdown).,2595,52,,2
+35,08/05/2011,7,Incorrect input for the yaw system resulted in trip (forced shutdown).,2417,51,,2
+36,13/05/2011,11,Incorrect input for the yaw system resulted in trip (forced shutdown).,2665,50,,2
+37,20/05/2011,17,Market demand on the vessel resulted in it being unavailable .,1500,78,,2
+38,24/05/2011,23,Incorrect input for the pitch system resulted in trip (forced shutdown).,2361,45,,1
+39,28/05/2011,19,"Collision with flock of birds of the blade resulted in rupture. Impact: Collision filmed, national news media; 80 complaints.  ",819488,643,"Collision filmed, national news media; 80 complaints.  ",3
+40,29/05/2011,16,Extreme weather resulted in tower vibration (forced shutdown).,2959,65,,2
+41,31/05/2011,15,Imbalance of the blade resulted in vibration (forced shutdown).,25114,74,,2
+42,02/06/2011,19,Incorrect input for the brake system resulted in trip (forced shutdown).,2506,48,,1
+43,09/06/2011,7,Incorrect input for the pitch system resulted in trip (forced shutdown).,2455,50,,1
+44,16/06/2011,21,"Construction error (misalignment, bolts not tightened) for the main shaft resulted in vibration (forced shutdown).",2493,52,,2
+45,16/06/2011,16,Contamination (salt build up) on the transformer resulted in trip (forced shutdown).,6406,52,,2
+46,20/06/2011,2,Construction error of the gearbox resulted in oil Leakage. Impact: Slippery floor,6398,26,Slippery floor,2
+47,22/06/2011,7,Incorrect input for the brake system resulted in trip (forced shutdown).,2604,45,,1
+48,26/06/2011,8,Wear of the cable resulted in short circuit.,43138,157,,2
+49,29/06/2011,5,Construction error of the gearbox resulted in oil Leakage. Impact: Slippery floor,6994,26,Slippery floor,2
+50,03/07/2011,35,"Construction error (misalignment, bolts not tightened) for the main shaft resulted in vibration (forced shutdown).",2648,50,,2
+51,09/07/2011,21,Extreme weather resulted in blade developing an edge crack.,1001151,330,,4
+52,16/07/2011,36,Ventilation error for the generator resulted in overheating (forced shutdown).,2332,48,,1
+53,21/07/2011,32,Incorrect input for the yaw system resulted in trip (forced shutdown).,2337,50,,1
+54,24/07/2011,2,Incorrect input for the yaw system resulted in trip (forced shutdown).,2700,52,,2
+55,25/07/2011,17,Incorrect input for the yaw system resulted in trip (forced shutdown).,2437,50,,1
+56,29/07/2011,22,Slippery stairs resulted in personnel falling. Impact: Long absence,1500,0,Long absence,3
+57,02/08/2011,8,Overload of the gearbox resulted in tooth failure.,73914,170,,2
+58,08/08/2011,7,Ventilation error for the generator resulted in overheating (forced shutdown).,2498,52,,2
+59,11/08/2011,2,Incorrect input for the yaw system resulted in trip (forced shutdown).,2648,52,,2
+60,12/08/2011,7,Incorrect input for the brake system resulted in trip (forced shutdown).,2324,51,,1
+61,13/08/2011,27,Incorrect input for the yaw system resulted in trip (forced shutdown).,2502,49,,1
+62,19/08/2011,24,Construction error of the gearbox resulted in oil Leakage. Impact: Slippery floor,8566,26,Slippery floor,2
+63,22/08/2011,8,Construction error of the gearbox resulted in oil Leakage. Impact: Slippery floor,7966,22,Slippery floor,2
+64,25/08/2011,24,Voltage spike for the generator resulted in trip (forced shutdown).,2565,52,,2
+65,27/08/2011,7,Construction error of the gearbox resulted in oil Leakage. Impact: Slippery floor,8247,25,Slippery floor,2
+66,03/09/2011,29,Contamination (salt build up) on the transformer resulted in trip (forced shutdown).,5814,47,,2
+67,05/09/2011,10,Incorrect input for the yaw system resulted in trip (forced shutdown).,2685,44,,1
+68,09/09/2011,15,Incorrect input for the pitch system resulted in trip (forced shutdown).,2689,52,,2
+69,10/09/2011,25,Imbalance of the blade resulted in vibration (forced shutdown).,23566,77,,2
+70,14/09/2011,22,Extreme weather resulted in blade developing an edge crack.,807417,369,,3
+71,16/09/2011,14,Incorrect input for the yaw system resulted in trip (forced shutdown).,2646,46,,1
+72,21/09/2011,17,"Brake system failure of the rotor resulted in extreme overspeed=> tower collapse. Impact: Collapse filmed, international news media. Some 300 complaints. 5 km2 lightly polluted.",2584164,4425,"Collapse filmed, international news media. Some 300 complaints. 5 km2 lightly polluted.",4
+73,24/09/2011,2,Incorrect input for the yaw system resulted in trip (forced shutdown).,2402,48,,1
+74,28/09/2011,7,Incorrect input for the brake system resulted in trip (forced shutdown).,2381,48,,1
+75,03/10/2011,22,Incorrect input for the pitch system resulted in trip (forced shutdown).,2414,47,,1
+76,06/10/2011,7,"Construction error of the transformer resulted in leakage. Impact: 200 ltr oil spilled into sea, 0,8 km2 lightly polluted.",18080,69,"200 ltr oil spilled into sea, 0,8 km2 lightly polluted.",3
+77,07/10/2011,7,Imbalance of the blade resulted in vibration (forced shutdown).,17991,70,,2
+78,10/10/2011,30,Imbalance of the blade resulted in vibration (forced shutdown).,22318,67,,2
+79,13/10/2011,15,Contamination (salt build up) on the transformer resulted in trip (forced shutdown).,6860,50,,2
+80,17/10/2011,12,Contamination (salt build up) on the transformer resulted in trip (forced shutdown).,7257,47,,2
+81,21/10/2011,33,Contamination (salt build up) on the transformer resulted in trip (forced shutdown).,6118,44,,2
+82,27/10/2011,17,Extreme weather resulted in tower vibration (forced shutdown).,2734,73,,2
+83,29/10/2011,35,Slippery stairs resulted in personnel falling. Impact: Long absence,1500,0,Long absence,3
+84,31/10/2011,11,Imbalance of the blade resulted in vibration (forced shutdown).,24077,69,,2
+85,02/11/2011,19,Construction error of the gearbox resulted in oil Leakage. Impact: Slippery floor,6928,22,Slippery floor,2
+86,09/11/2011,31,Incorrect input for the brake system resulted in trip (forced shutdown).,2616,51,,2
+87,12/11/2011,2,Incorrect input for the pitch system resulted in trip (forced shutdown).,2389,47,,1
+88,19/11/2011,18,Imbalance of the blade resulted in vibration (forced shutdown).,20223,77,,2
+89,20/11/2011,32,Incorrect input for the pitch system resulted in trip (forced shutdown).,2433,53,,2
+90,20/11/2011,13,Incorrect input for the pitch system resulted in trip (forced shutdown).,2588,52,,2
+91,22/11/2011,29,Contamination (salt build up) on the transformer resulted in trip (forced shutdown).,6903,53,,2
+92,24/11/2011,34,Imbalance of the blade resulted in vibration (forced shutdown).,20563,75,,2
+93,01/12/2011,23,Imbalance of the blade resulted in vibration (forced shutdown).,20282,72,,2
+94,02/12/2011,16,Construction error of the gearbox resulted in oil Leakage. Impact: Slippery floor,8484,25,Slippery floor,2
+95,05/12/2011,17,"Construction error (misalignment, bolts not tightened) for the main shaft resulted in vibration (forced shutdown).",2439,47,,1
+96,07/12/2011,13,Contamination (salt build up) on the transformer resulted in trip (forced shutdown).,7480,53,,2
+97,08/12/2011,8,Ventilation error for the generator resulted in overheating (forced shutdown).,2327,46,,1
+98,14/12/2011,9,Incorrect input for the yaw system resulted in trip (forced shutdown).,2409,44,,1
+99,16/12/2011,15,Construction error of the gearbox resulted in oil Leakage. Impact: Slippery floor,7797,25,Slippery floor,2
+100,21/12/2011,18,Ventilation error for the generator resulted in overheating (forced shutdown).,2348,44,,1
+101,25/12/2011,7,Incorrect input for the pitch system resulted in trip (forced shutdown).,2680,46,,1
+102,29/12/2011,8,Contamination (salt build up) on the transformer resulted in trip (forced shutdown).,6546,50,,2
+103,01/01/2012,9,Imbalance of the blade resulted in vibration (forced shutdown).,18856,76,,2
+104,08/01/2012,10,Incorrect input for the yaw system resulted in trip (forced shutdown).,2593,48,,1
+105,14/01/2012,7,"Construction error of the transformer resulted in leakage. Impact: 200 ltr oil spilled into sea, 0,8 km2 lightly polluted.",18754,76,"200 ltr oil spilled into sea, 0,8 km2 lightly polluted.",3
+106,20/01/2012,18,Imbalance of the blade resulted in vibration (forced shutdown).,20515,69,,2
+107,22/01/2012,21,Contamination (salt build up) on the transformer resulted in trip (forced shutdown).,6369,50,,2
+108,26/01/2012,29,Ventilation error for the generator resulted in overheating (forced shutdown).,2342,50,,1
+109,31/01/2012,33,Construction error of the gearbox resulted in oil Leakage. Impact: Slippery floor,8306,24,Slippery floor,2
+110,02/02/2012,32,"Brake system failure of the rotor resulted in extreme overspeed=> tower collapse. Impact: Collapse filmed, international news media. Some 300 complaints. 5 km2 lightly polluted.",2416263,4174,"Collapse filmed, international news media. Some 300 complaints. 5 km2 lightly polluted.",4
+111,07/02/2012,19,"Brake system failure of the rotor resulted in extreme overspeed=> tower collapse. Impact: Collapse filmed, international news media. Some 300 complaints. 5 km2 lightly polluted.",3089823,4458,"Collapse filmed, international news media. Some 300 complaints. 5 km2 lightly polluted.",4
+112,12/02/2012,36,"Brake system failure of the rotor resulted in extreme overspeed=> tower collapse. Impact: Collapse filmed, international news media. Some 300 complaints. 5 km2 lightly polluted.",2909626,4383,"Collapse filmed, international news media. Some 300 complaints. 5 km2 lightly polluted.",4
+113,18/02/2012,33,Incorrect input for the brake system resulted in trip (forced shutdown).,2550,50,,2
+114,21/02/2012,29,Incorrect input for the yaw system resulted in trip (forced shutdown).,2607,44,,1
+115,28/02/2012,33,Incorrect input for the brake system resulted in trip (forced shutdown).,2535,51,,2
+116,05/03/2012,2,Ventilation error for the generator resulted in overheating (forced shutdown).,2542,45,,1
+117,10/03/2012,30,Incorrect input for the yaw system resulted in trip (forced shutdown).,2467,50,,1
+118,16/03/2012,28,Wear of the cable resulted in short circuit.,41665,165,,2
+119,23/03/2012,15,Imbalance of the blade resulted in vibration (forced shutdown).,23168,72,,2
+120,23/03/2012,29,"Construction error (misalignment, bolts not tightened) for the main shaft resulted in vibration (forced shutdown).",2451,45,,1
+121,30/03/2012,19,Contamination (salt build up) on the transformer resulted in trip (forced shutdown).,6279,52,,2
+122,05/04/2012,31,Wear of the cable resulted in short circuit.,54445,178,,2
+123,12/04/2012,11,Imbalance of the blade resulted in vibration (forced shutdown).,17900,76,,2
+124,16/04/2012,18,Contamination (salt build up) on the transformer resulted in trip (forced shutdown).,6700,45,,2
+125,18/04/2012,7,"Construction error of the transformer resulted in leakage. Impact: 200 ltr oil spilled into sea, 0,8 km2 lightly polluted.",19487,71,"200 ltr oil spilled into sea, 0,8 km2 lightly polluted.",3
+126,21/04/2012,18,Contamination (salt build up) on the transformer resulted in trip (forced shutdown).,6107,47,,2
+127,27/04/2012,34,Market demand on the vessel resulted in it being unavailable .,1500,73,,2
+128,05/05/2012,23,Incorrect input for the yaw system resulted in trip (forced shutdown).,2642,49,,1
+129,08/05/2012,17,Slippery stairs resulted in personnel falling. Impact: Long absence,1500,0,Long absence,3
+130,15/05/2012,28,Ventilation error for the generator resulted in overheating (forced shutdown).,2597,52,,2
+131,22/05/2012,28,Construction error of the gearbox resulted in oil Leakage. Impact: Slippery floor,8242,22,Slippery floor,2
+132,23/05/2012,7,Imbalance of the blade resulted in vibration (forced shutdown).,19621,73,,2
+133,26/05/2012,23,Incorrect input for the yaw system resulted in trip (forced shutdown).,2507,50,,2
+134,30/05/2012,15,Extreme weather resulted in tower vibration (forced shutdown).,3010,78,,2
+135,01/06/2012,36,Incorrect input for the brake system resulted in trip (forced shutdown).,2338,50,,1
+136,03/06/2012,6,"Construction error of the transformer resulted in leakage. Impact: 200 ltr oil spilled into sea, 0,8 km2 lightly polluted.",22107,65,"200 ltr oil spilled into sea, 0,8 km2 lightly polluted.",3
+137,04/06/2012,33,Incorrect input for the yaw system resulted in trip (forced shutdown).,2676,50,,2
+138,07/06/2012,27,Imbalance of the blade resulted in vibration (forced shutdown).,23045,78,,2
+139,12/06/2012,18,Imbalance of the blade resulted in vibration (forced shutdown).,20419,77,,2
+140,14/06/2012,3,Construction error of the gearbox resulted in oil Leakage. Impact: Slippery floor,7459,23,Slippery floor,2
+141,20/06/2012,34,Incorrect input for the yaw system resulted in trip (forced shutdown).,2523,45,,1
+142,21/06/2012,6,Incorrect input for the yaw system resulted in trip (forced shutdown).,2471,47,,1
+143,26/06/2012,7,"Construction error (misalignment, bolts not tightened) for the main shaft resulted in vibration (forced shutdown).",2488,48,,1
+144,29/06/2012,7,Construction error of the gearbox resulted in oil Leakage. Impact: Slippery floor,6804,26,Slippery floor,2
+145,04/07/2012,6,Incorrect input for the yaw system resulted in trip (forced shutdown).,2506,51,,2
+146,08/07/2012,9,Incorrect input for the yaw system resulted in trip (forced shutdown).,2563,46,,1
+147,13/07/2012,26,Contamination (salt build up) on the transformer resulted in trip (forced shutdown).,5966,51,,2
+148,18/07/2012,22,Incorrect input for the pitch system resulted in trip (forced shutdown).,2435,48,,1
+149,19/07/2012,7,Extreme weather resulted in blade developing an edge crack.,891931,317,,3
+150,21/07/2012,25,Incorrect input for the pitch system resulted in trip (forced shutdown).,2326,46,,1
+151,28/07/2012,19,Incorrect input for the yaw system resulted in trip (forced shutdown).,2632,52,,2
+152,31/07/2012,23,Extreme weather resulted in tower vibration (forced shutdown).,3228,70,,2
+153,02/08/2012,11,Incorrect input for the yaw system resulted in trip (forced shutdown).,2688,48,,1
+154,09/08/2012,35,Incorrect input for the brake system resulted in trip (forced shutdown).,2406,48,,1
+155,11/08/2012,35,Incorrect input for the pitch system resulted in trip (forced shutdown).,2478,49,,1
+156,16/08/2012,20,Incorrect input for the yaw system resulted in trip (forced shutdown).,2547,47,,1
+157,20/08/2012,31,Imbalance of the blade resulted in vibration (forced shutdown).,25397,66,,2
+158,24/08/2012,24,Overload of the gearbox resulted in tooth failure.,67154,169,,2
+159,25/08/2012,11,Incorrect input for the yaw system resulted in trip (forced shutdown).,2360,47,,1
+160,31/08/2012,22,Construction error of the gearbox resulted in oil Leakage. Impact: Slippery floor,7895,25,Slippery floor,2
+161,06/09/2012,1,Construction error of the gearbox resulted in oil Leakage. Impact: Slippery floor,6712,25,Slippery floor,2
+162,07/09/2012,23,Contamination (salt build up) on the transformer resulted in trip (forced shutdown).,5942,53,,2
+163,08/09/2012,22,Incorrect input for the yaw system resulted in trip (forced shutdown).,2320,48,,1
+164,12/09/2012,7,"Construction error (misalignment, bolts not tightened) for the main shaft resulted in vibration (forced shutdown).",2424,49,,1
+165,19/09/2012,16,"Construction error (misalignment, bolts not tightened) for the main shaft resulted in vibration (forced shutdown).",2398,43,,1
+166,21/09/2012,6,Incorrect input for the pitch system resulted in trip (forced shutdown).,2402,44,,1
+167,25/09/2012,7,Incorrect input for the brake system resulted in trip (forced shutdown).,2569,51,,2
+168,25/09/2012,3,Incorrect input for the pitch system resulted in trip (forced shutdown).,2337,51,,1
+169,01/10/2012,8,Imbalance of the blade resulted in vibration (forced shutdown).,24589,69,,2
+170,01/10/2012,11,Extreme weather resulted in tower vibration (forced shutdown).,3184,71,,2
+171,07/10/2012,22,Slippery stairs resulted in personnel falling. Impact: Long absence,1500,0,Long absence,3
+172,10/10/2012,21,Incorrect input for the pitch system resulted in trip (forced shutdown).,2346,46,,1
+173,15/10/2012,32,Incorrect input for the brake system resulted in trip (forced shutdown).,2303,51,,1
+174,16/10/2012,14,Imbalance of the blade resulted in vibration (forced shutdown).,17533,70,,2
+175,19/10/2012,11,"Construction error (misalignment, bolts not tightened) for the main shaft resulted in vibration (forced shutdown).",2462,50,,1
+176,19/10/2012,7,Incorrect input for the yaw system resulted in trip (forced shutdown).,2558,50,,2
+177,26/10/2012,22,Voltage spike for the generator resulted in trip (forced shutdown).,2406,49,,1
+178,26/10/2012,13,Voltage spike for the generator resulted in trip (forced shutdown).,2455,45,,1
+179,29/10/2012,24,Construction error of the gearbox resulted in oil Leakage. Impact: Slippery floor,7980,25,Slippery floor,2
+180,01/11/2012,30,Incorrect input for the brake system resulted in trip (forced shutdown).,2670,48,,1
+181,06/11/2012,11,Voltage spike for the generator resulted in trip (forced shutdown).,2627,47,,1
+182,06/11/2012,20,Incorrect input for the brake system resulted in trip (forced shutdown).,2645,52,,2
+183,13/11/2012,6,Incorrect input for the brake system resulted in trip (forced shutdown).,2548,49,,1
+184,15/11/2012,7,Wear of the cable resulted in short circuit.,44870,157,,2
+185,16/11/2012,8,Market demand on the vessel resulted in it being unavailable .,1500,65,,2
+186,21/11/2012,6,Slippery stairs resulted in personnel falling. Impact: Long absence,1500,0,Long absence,3
+187,24/11/2012,33,Extreme weather resulted in blade developing an edge crack.,920789,304,,3
+188,28/11/2012,28,Contamination (salt build up) on the transformer resulted in trip (forced shutdown).,6180,51,,2
+189,01/12/2012,7,Corrosion of the tower resulted in loss of strength.,76548,627,,3
+190,02/12/2012,31,Contamination (salt build up) on the transformer resulted in trip (forced shutdown).,7491,50,,2
+191,04/12/2012,20,"Construction error of the transformer resulted in leakage. Impact: 200 ltr oil spilled into sea, 0,8 km2 lightly polluted.",20398,77,"200 ltr oil spilled into sea, 0,8 km2 lightly polluted.",3
+192,06/12/2012,16,Incorrect input for the brake system resulted in trip (forced shutdown).,2630,52,,2
+193,12/12/2012,27,Contamination (salt build up) on the transformer resulted in trip (forced shutdown).,6661,49,,2
+194,17/12/2012,10,Incorrect input for the brake system resulted in trip (forced shutdown).,2446,46,,1
+195,24/12/2012,8,Incorrect input for the pitch system resulted in trip (forced shutdown).,2650,47,,1
+196,29/12/2012,1,Imbalance of the blade resulted in vibration (forced shutdown).,18820,71,,2
+197,31/12/2012,7,Ventilation error for the generator resulted in overheating (forced shutdown).,2664,50,,2
+198,31/12/2012,7,Construction error of the gearbox resulted in oil Leakage. Impact: Slippery floor,8460,26,Slippery floor,2
+199,02/01/2013,29,"Construction error (misalignment, bolts not tightened) for the main shaft resulted in vibration (forced shutdown).",2673,45,,1
+200,05/01/2013,8,Incorrect input for the pitch system resulted in trip (forced shutdown).,2574,49,,1
+201,12/01/2013,9,Extreme weather resulted in blade developing an edge crack.,866240,362,,3
+202,12/01/2013,25,Contamination (salt build up) on the transformer resulted in trip (forced shutdown).,6252,51,,2
+203,16/01/2013,7,Ventilation error for the generator resulted in overheating (forced shutdown).,2578,48,,1
+204,20/01/2013,5,Incorrect input for the brake system resulted in trip (forced shutdown).,2662,45,,1
+205,24/01/2013,7,Overload of the gearbox resulted in tooth failure.,87021,158,,3
+206,25/01/2013,25,Extreme weather resulted in blade developing an edge crack.,1102884,349,,4
+207,29/01/2013,22,Incorrect input for the brake system resulted in trip (forced shutdown).,2461,52,,2
+208,04/02/2013,7,Incorrect input for the brake system resulted in trip (forced shutdown).,2353,49,,1
+209,04/02/2013,13,Incorrect input for the yaw system resulted in trip (forced shutdown).,2361,46,,1
+210,06/02/2013,16,Incorrect input for the yaw system resulted in trip (forced shutdown).,2544,52,,2
+211,06/02/2013,4,Imbalance of the blade resulted in vibration (forced shutdown).,21649,76,,2
+212,12/02/2013,8,Overload of the gearbox resulted in tooth failure.,66928,168,,2
+213,17/02/2013,23,Extreme weather resulted in tower vibration (forced shutdown).,3073,76,,2
+214,19/02/2013,8,Imbalance of the blade resulted in vibration (forced shutdown).,22628,78,,2
+215,20/02/2013,35,Contamination (salt build up) on the transformer resulted in trip (forced shutdown).,5722,47,,2
+216,20/02/2013,22,Construction error of the gearbox resulted in oil Leakage. Impact: Slippery floor,8502,23,Slippery floor,2
+217,27/02/2013,13,Contamination (salt build up) on the transformer resulted in trip (forced shutdown).,7137,48,,2
+218,05/03/2013,28,Contamination (salt build up) on the transformer resulted in trip (forced shutdown).,6134,48,,2
+219,11/03/2013,15,Market demand on the vessel resulted in it being unavailable .,1500,70,,2
+220,18/03/2013,28,Imbalance of the blade resulted in vibration (forced shutdown).,22905,75,,2
+221,22/03/2013,27,"Construction error (misalignment, bolts not tightened) for the main shaft resulted in vibration (forced shutdown).",2342,46,,1
+222,25/03/2013,35,Contamination (salt build up) on the transformer resulted in trip (forced shutdown).,6714,48,,2
+223,27/03/2013,11,Incorrect input for the brake system resulted in trip (forced shutdown).,2363,51,,2
+224,29/03/2013,11,Incorrect input for the brake system resulted in trip (forced shutdown).,2597,45,,1
+225,30/03/2013,30,Contamination (salt build up) on the transformer resulted in trip (forced shutdown).,6037,52,,2
+226,01/04/2013,7,Slippery stairs resulted in personnel falling. Impact: Long absence,1500,0,Long absence,3
+227,02/04/2013,36,Incorrect input for the brake system resulted in trip (forced shutdown).,2628,45,,1
+228,05/04/2013,15,Ventilation error for the generator resulted in overheating (forced shutdown).,2593,47,,1
+229,08/04/2013,15,Incorrect input for the brake system resulted in trip (forced shutdown).,2419,48,,1
+230,14/04/2013,17,Incorrect input for the pitch system resulted in trip (forced shutdown).,2542,49,,1
+231,15/04/2013,19,Incorrect input for the pitch system resulted in trip (forced shutdown).,2664,50,,2
+232,21/04/2013,34,Incorrect input for the pitch system resulted in trip (forced shutdown).,2604,45,,1
+233,26/04/2013,1,Imbalance of the blade resulted in vibration (forced shutdown).,20620,72,,2
+234,28/04/2013,7,Incorrect input for the pitch system resulted in trip (forced shutdown).,2322,44,,1
+235,03/05/2013,21,Extreme weather resulted in blade developing an edge crack.,821413,353,,3
+236,07/05/2013,7,Incorrect input for the brake system resulted in trip (forced shutdown).,2605,44,,1
+237,10/05/2013,22,Imbalance of the blade resulted in vibration (forced shutdown).,19272,79,,2
+238,12/05/2013,32,Extreme weather resulted in substructure developing acrack.,273479,714,,3
+239,16/05/2013,31,Voltage spike for the generator resulted in trip (forced shutdown).,2500,44,,1
+240,22/05/2013,8,Overload of the gearbox resulted in tooth failure.,61419,165,,2
+241,28/05/2013,18,Incorrect input for the yaw system resulted in trip (forced shutdown).,2485,52,,2
+242,03/06/2013,36,Imbalance of the blade resulted in vibration (forced shutdown).,25351,71,,2
+243,07/06/2013,7,Construction error of the gearbox resulted in oil Leakage. Impact: Slippery floor,6829,24,Slippery floor,2
+244,11/06/2013,22,Contamination (salt build up) on the transformer resulted in trip (forced shutdown).,6073,50,,2
+245,13/06/2013,24,Overload of the gearbox resulted in tooth failure.,74562,155,,2
+246,13/06/2013,26,Wear of the cable resulted in short circuit.,50619,174,,2
+247,14/06/2013,29,Imbalance of the blade resulted in vibration (forced shutdown).,20152,68,,2
+248,20/06/2013,4,Extreme weather resulted in blade developing an edge crack.,861549,354,,3
+249,24/06/2013,26,Incorrect input for the brake system resulted in trip (forced shutdown).,2560,44,,1
+250,28/06/2013,10,Construction error of the gearbox resulted in oil Leakage. Impact: Slippery floor,6715,26,Slippery floor,2
+251,04/07/2013,34,Market demand on the vessel resulted in it being unavailable .,1500,79,,2
+252,08/07/2013,7,Ventilation error for the generator resulted in overheating (forced shutdown).,2512,45,,1
+253,13/07/2013,3,Incorrect input for the brake system resulted in trip (forced shutdown).,2318,44,,1
+254,14/07/2013,34,Imbalance of the blade resulted in vibration (forced shutdown).,19667,70,,2
+255,15/07/2013,16,Imbalance of the blade resulted in vibration (forced shutdown).,22021,68,,2
+256,18/07/2013,14,Contamination (salt build up) on the transformer resulted in trip (forced shutdown).,7146,45,,2
+257,20/07/2013,7,Incorrect input for the yaw system resulted in trip (forced shutdown).,2507,51,,2
+258,24/07/2013,23,"Brake system failure of the rotor resulted in extreme overspeed=> tower collapse. Impact: Collapse filmed, international news media. Some 300 complaints. 5 km2 lightly polluted.",2728293,4795,"Collapse filmed, international news media. Some 300 complaints. 5 km2 lightly polluted.",4
+259,28/07/2013,2,Incorrect input for the yaw system resulted in trip (forced shutdown).,2465,46,,1
+260,01/08/2013,6,Imbalance of the blade resulted in vibration (forced shutdown).,24870,75,,2
+261,06/08/2013,24,Incorrect input for the brake system resulted in trip (forced shutdown).,2375,44,,1
+262,10/08/2013,2,"Construction error (misalignment, bolts not tightened) for the main shaft resulted in vibration (forced shutdown).",2509,43,,1
+263,13/08/2013,7,Market demand on the vessel resulted in it being unavailable .,1500,68,,2
+264,16/08/2013,7,Incorrect input for the yaw system resulted in trip (forced shutdown).,2591,46,,1
+265,16/08/2013,15,Contamination (salt build up) on the transformer resulted in trip (forced shutdown).,6521,47,,2
+266,23/08/2013,12,Extreme weather resulted in tower vibration (forced shutdown).,3001,69,,2
+267,24/08/2013,1,Contamination (salt build up) on the transformer resulted in trip (forced shutdown).,6553,49,,2
+268,26/08/2013,23,Incorrect input for the pitch system resulted in trip (forced shutdown).,2537,46,,1
+269,31/08/2013,17,Extreme weather resulted in tower vibration (forced shutdown).,3028,76,,2
+270,04/09/2013,30,Incorrect input for the pitch system resulted in trip (forced shutdown).,2406,46,,1
+271,09/09/2013,30,Incorrect input for the pitch system resulted in trip (forced shutdown).,2591,44,,1
+272,13/09/2013,21,Extreme weather resulted in tower vibration (forced shutdown).,3237,77,,2
+273,20/09/2013,36,Slippery stairs resulted in personnel falling. Impact: Long absence,1500,0,Long absence,3
+274,20/09/2013,8,Wear of the cable resulted in short circuit.,42958,178,,2
+275,27/09/2013,7,Incorrect input for the brake system resulted in trip (forced shutdown).,2435,44,,1
+276,01/10/2013,19,Market demand on the vessel resulted in it being unavailable .,1500,72,,2
+277,04/10/2013,36,Incorrect input for the brake system resulted in trip (forced shutdown).,2438,44,,1
+278,06/10/2013,29,Incorrect input for the yaw system resulted in trip (forced shutdown).,2608,51,,2
+279,08/10/2013,15,"Construction error (misalignment, bolts not tightened) for the main shaft resulted in vibration (forced shutdown).",2426,44,,1
+280,15/10/2013,25,Extreme weather resulted in blade developing an edge crack.,1028226,311,,4
+281,18/10/2013,8,Slippery stairs resulted in personnel falling. Impact: Long absence,1500,0,Long absence,3
+282,23/10/2013,7,Incorrect input for the yaw system resulted in trip (forced shutdown).,2349,45,,1
+283,25/10/2013,21,Extreme weather resulted in tower vibration (forced shutdown).,2774,70,,2
+284,27/10/2013,27,Incorrect input for the yaw system resulted in trip (forced shutdown).,2624,50,,2
+285,28/10/2013,22,Voltage spike for the generator resulted in trip (forced shutdown).,2679,46,,1
+286,03/11/2013,21,Incorrect input for the pitch system resulted in trip (forced shutdown).,2357,52,,2
+287,06/11/2013,26,Incorrect input for the brake system resulted in trip (forced shutdown).,2547,52,,2
+288,11/11/2013,30,Contamination (salt build up) on the transformer resulted in trip (forced shutdown).,6447,50,,2
+289,13/11/2013,2,Voltage spike for the generator resulted in trip (forced shutdown).,2543,48,,1
+290,19/11/2013,7,Incorrect input for the yaw system resulted in trip (forced shutdown).,2440,44,,1
+291,20/11/2013,26,Incorrect input for the brake system resulted in trip (forced shutdown).,2374,44,,1
+292,25/11/2013,25,Incorrect input for the pitch system resulted in trip (forced shutdown).,2555,50,,2
+293,27/11/2013,14,Contamination (salt build up) on the transformer resulted in trip (forced shutdown).,6220,53,,2
+294,30/11/2013,23,Construction error of the gearbox resulted in oil Leakage. Impact: Slippery floor,8258,24,Slippery floor,2
+295,04/12/2013,18,Contamination (salt build up) on the transformer resulted in trip (forced shutdown).,5764,49,,2
+296,07/12/2013,7,"Construction error (misalignment, bolts not tightened) for the main shaft resulted in vibration (forced shutdown).",2696,51,,2
+297,11/12/2013,22,Incorrect input for the yaw system resulted in trip (forced shutdown).,2667,50,,2
+298,16/12/2013,17,Construction error of the gearbox resulted in oil Leakage. Impact: Slippery floor,7189,24,Slippery floor,2
+299,17/12/2013,26,Incorrect input for the pitch system resulted in trip (forced shutdown).,2433,47,,1
+300,20/12/2013,36,"Construction error (misalignment, bolts not tightened) for the main shaft resulted in vibration (forced shutdown).",2419,44,,1
+301,21/12/2013,13,Incorrect input for the yaw system resulted in trip (forced shutdown).,2590,46,,1
+302,22/12/2013,17,Incorrect input for the yaw system resulted in trip (forced shutdown).,2320,50,,1
+303,25/12/2013,9,Ventilation error for the generator resulted in overheating (forced shutdown).,2346,52,,2
+304,26/12/2013,12,Construction error of the gearbox resulted in oil Leakage. Impact: Slippery floor,8659,25,Slippery floor,2
+305,26/12/2013,31,Construction error of the gearbox resulted in oil Leakage. Impact: Slippery floor,7412,25,Slippery floor,2
+306,31/12/2013,29,Construction error of the gearbox resulted in oil Leakage. Impact: Slippery floor,8218,22,Slippery floor,2
+307,06/01/2014,21,"Construction error (misalignment, bolts not tightened) for the main shaft resulted in vibration (forced shutdown).",2459,44,,1
+308,11/01/2014,24,Contamination (salt build up) on the transformer resulted in trip (forced shutdown).,7386,44,,2
+309,13/01/2014,4,Contamination (salt build up) on the transformer resulted in trip (forced shutdown).,7156,45,,2
+310,15/01/2014,14,Incorrect input for the pitch system resulted in trip (forced shutdown).,2473,52,,2
+311,15/01/2014,24,Extreme weather resulted in blade developing an edge crack.,795640,355,,3
+312,20/01/2014,23,Contamination (salt build up) on the transformer resulted in trip (forced shutdown).,6780,46,,2
+313,22/01/2014,6,"Brake system failure of the rotor resulted in extreme overspeed=> tower collapse. Impact: Collapse filmed, international news media. Some 300 complaints. 5 km2 lightly polluted.",3045293,4386,"Collapse filmed, international news media. Some 300 complaints. 5 km2 lightly polluted.",4
+314,27/01/2014,23,Incorrect input for the yaw system resulted in trip (forced shutdown).,2630,48,,1
+315,03/02/2014,26,Construction error of the gearbox resulted in oil Leakage. Impact: Slippery floor,8035,26,Slippery floor,2
+316,08/02/2014,3,Imbalance of the blade resulted in vibration (forced shutdown).,20865,72,,2
+317,09/02/2014,1,Construction error of the gearbox resulted in oil Leakage. Impact: Slippery floor,7732,24,Slippery floor,2
+318,15/02/2014,35,Imbalance of the blade resulted in vibration (forced shutdown).,20533,72,,2
+319,18/02/2014,33,Incorrect input for the brake system resulted in trip (forced shutdown).,2439,51,,2
+320,23/02/2014,26,Incorrect input for the pitch system resulted in trip (forced shutdown).,2340,49,,1
+321,26/02/2014,7,Imbalance of the blade resulted in vibration (forced shutdown).,24076,65,,2
+322,03/03/2014,4,Imbalance of the blade resulted in vibration (forced shutdown).,23231,76,,2
+323,10/03/2014,10,Contamination (salt build up) on the transformer resulted in trip (forced shutdown).,6836,43,,2
+324,16/03/2014,30,Incorrect input for the yaw system resulted in trip (forced shutdown).,2614,49,,1
+325,17/03/2014,7,Incorrect input for the pitch system resulted in trip (forced shutdown).,2539,53,,2
+326,19/03/2014,8,Ventilation error for the generator resulted in overheating (forced shutdown).,2555,51,,2
+327,26/03/2014,11,Voltage spike for the generator resulted in trip (forced shutdown).,2476,51,,2
+328,28/03/2014,6,Ventilation error for the generator resulted in overheating (forced shutdown).,2682,48,,1
+329,04/04/2014,21,Incorrect input for the yaw system resulted in trip (forced shutdown).,2658,48,,1
+330,04/04/2014,2,Contamination (salt build up) on the transformer resulted in trip (forced shutdown).,6138,50,,2
+331,05/04/2014,4,Incorrect input for the pitch system resulted in trip (forced shutdown).,2344,48,,1
+332,11/04/2014,33,Contamination (salt build up) on the transformer resulted in trip (forced shutdown).,7080,52,,2
+333,13/04/2014,32,Contamination (salt build up) on the transformer resulted in trip (forced shutdown).,6576,44,,2
+334,19/04/2014,27,Incorrect input for the yaw system resulted in trip (forced shutdown).,2611,48,,1
+335,20/04/2014,5,Imbalance of the blade resulted in vibration (forced shutdown).,23047,71,,2
+336,20/04/2014,25,Construction error of the gearbox resulted in oil Leakage. Impact: Slippery floor,8098,25,Slippery floor,2
+337,25/04/2014,6,Incorrect input for the pitch system resulted in trip (forced shutdown).,2588,46,,1
+338,27/04/2014,35,Contamination (salt build up) on the transformer resulted in trip (forced shutdown).,6615,44,,2
+339,29/04/2014,18,Construction error of the gearbox resulted in oil Leakage. Impact: Slippery floor,8547,22,Slippery floor,2
+340,03/05/2014,25,Overload of the gearbox resulted in tooth failure.,70541,176,,2
+341,05/05/2014,17,Incorrect input for the yaw system resulted in trip (forced shutdown).,2606,45,,1
+342,09/05/2014,18,Contamination (salt build up) on the transformer resulted in trip (forced shutdown).,6900,47,,2
+343,14/05/2014,8,Contamination (salt build up) on the transformer resulted in trip (forced shutdown).,6880,46,,2
+344,18/05/2014,4,Contamination (salt build up) on the transformer resulted in trip (forced shutdown).,6466,52,,2
+345,23/05/2014,7,Incorrect input for the brake system resulted in trip (forced shutdown).,2361,47,,1
+346,23/05/2014,8,Contamination (salt build up) on the transformer resulted in trip (forced shutdown).,7369,52,,2
+347,29/05/2014,21,Contamination (salt build up) on the transformer resulted in trip (forced shutdown).,6615,52,,2
+348,04/06/2014,27,Construction error of the gearbox resulted in oil Leakage. Impact: Slippery floor,6946,25,Slippery floor,2
+349,09/06/2014,26,Incorrect input for the pitch system resulted in trip (forced shutdown).,2608,47,,1
+350,10/06/2014,32,Construction error of the gearbox resulted in oil Leakage. Impact: Slippery floor,6627,26,Slippery floor,2
+351,14/06/2014,27,Construction error of the gearbox resulted in oil Leakage. Impact: Slippery floor,8180,26,Slippery floor,2
+352,18/06/2014,8,Incorrect input for the pitch system resulted in trip (forced shutdown).,2343,49,,1
+353,22/06/2014,30,Incorrect input for the yaw system resulted in trip (forced shutdown).,2476,49,,1
+354,27/06/2014,29,Incorrect input for the yaw system resulted in trip (forced shutdown).,2312,51,,1
+355,02/07/2014,6,Incorrect input for the brake system resulted in trip (forced shutdown).,2458,48,,1
+356,06/07/2014,7,Slippery stairs resulted in personnel falling. Impact: Long absence,1500,0,Long absence,3
+357,11/07/2014,23,Imbalance of the blade resulted in vibration (forced shutdown).,22948,75,,2
+358,13/07/2014,29,Incorrect input for the yaw system resulted in trip (forced shutdown).,2357,45,,1
+359,21/07/2014,15,Ventilation error for the generator resulted in overheating (forced shutdown).,2536,51,,2
+360,22/07/2014,6,Ventilation error for the generator resulted in overheating (forced shutdown).,2311,44,,1
+361,27/07/2014,13,Contamination (salt build up) on the transformer resulted in trip (forced shutdown).,6942,53,,2
+362,31/07/2014,11,Overload of the gearbox resulted in tooth failure.,59193,152,,2
+363,03/08/2014,9,Incorrect input for the brake system resulted in trip (forced shutdown).,2454,46,,1
+364,04/08/2014,3,Imbalance of the blade resulted in vibration (forced shutdown).,25275,76,,2
+365,05/08/2014,16,"Collision with flock of birds of the blade resulted in rupture. Impact: Collision filmed, national news media; 80 complaints.  ",1053111,726,"Collision filmed, national news media; 80 complaints.  ",4
+366,11/08/2014,18,Imbalance of the blade resulted in vibration (forced shutdown).,22322,68,,2
+367,12/08/2014,35,Contamination (salt build up) on the transformer resulted in trip (forced shutdown).,6490,48,,2
+368,15/08/2014,28,"Construction error (misalignment, bolts not tightened) for the main shaft resulted in vibration (forced shutdown).",2540,51,,2
+369,20/08/2014,30,Imbalance of the blade resulted in vibration (forced shutdown).,21667,71,,2
+370,21/08/2014,7,"Construction error (misalignment, bolts not tightened) for the main shaft resulted in vibration (forced shutdown).",2336,45,,1
+371,23/08/2014,8,Contamination (salt build up) on the transformer resulted in trip (forced shutdown).,6466,44,,2
+372,30/08/2014,7,Construction error of the gearbox resulted in oil Leakage. Impact: Slippery floor,6645,25,Slippery floor,2
+373,01/09/2014,28,Imbalance of the blade resulted in vibration (forced shutdown).,25023,75,,2
+374,06/09/2014,36,Construction error of the gearbox resulted in oil Leakage. Impact: Slippery floor,8056,26,Slippery floor,2
+375,12/09/2014,3,Incorrect input for the yaw system resulted in trip (forced shutdown).,2358,47,,1
+376,14/09/2014,7,Wear of the cable resulted in short circuit.,52157,180,,2
+377,18/09/2014,26,Extreme weather resulted in substructure developing acrack.,272617,632,,3
+378,21/09/2014,13,"Brake system failure of the rotor resulted in extreme overspeed=> tower collapse. Impact: Collapse filmed, international news media. Some 300 complaints. 5 km2 lightly polluted.",2530454,4326,"Collapse filmed, international news media. Some 300 complaints. 5 km2 lightly polluted.",4
+379,25/09/2014,17,Incorrect input for the pitch system resulted in trip (forced shutdown).,2363,52,,2
+380,28/09/2014,18,Contamination (salt build up) on the transformer resulted in trip (forced shutdown).,6023,52,,2
+381,29/09/2014,9,"Construction error (misalignment, bolts not tightened) for the main shaft resulted in vibration (forced shutdown).",2400,48,,1
+382,03/10/2014,7,Contamination (salt build up) on the transformer resulted in trip (forced shutdown).,6641,47,,2
+383,05/10/2014,4,Construction error of the gearbox resulted in oil Leakage. Impact: Slippery floor,8599,26,Slippery floor,2
+384,10/10/2014,23,Voltage spike for the generator resulted in trip (forced shutdown).,2662,47,,1
+385,11/10/2014,33,Incorrect input for the brake system resulted in trip (forced shutdown).,2598,47,,1
+386,14/10/2014,28,Contamination (salt build up) on the transformer resulted in trip (forced shutdown).,7393,47,,2
+387,17/10/2014,12,Voltage spike for the generator resulted in trip (forced shutdown).,2658,51,,2
+388,23/10/2014,10,Contamination (salt build up) on the transformer resulted in trip (forced shutdown).,5507,48,,2
+389,29/10/2014,7,Contamination (salt build up) on the transformer resulted in trip (forced shutdown).,6283,51,,2
+390,02/11/2014,7,"Construction error (misalignment, bolts not tightened) for the main shaft resulted in vibration (forced shutdown).",2495,46,,1
+391,02/11/2014,20,Incorrect input for the pitch system resulted in trip (forced shutdown).,2544,47,,1
+392,05/11/2014,11,Incorrect input for the yaw system resulted in trip (forced shutdown).,2546,47,,1
+393,10/11/2014,3,Ventilation error for the generator resulted in overheating (forced shutdown).,2571,46,,1
+394,15/11/2014,32,Construction error of the gearbox resulted in oil Leakage. Impact: Slippery floor,6490,23,Slippery floor,1
+395,21/11/2014,25,Incorrect input for the pitch system resulted in trip (forced shutdown).,2577,47,,1
+396,22/11/2014,6,Incorrect input for the brake system resulted in trip (forced shutdown).,2600,45,,1
+397,29/11/2014,24,Imbalance of the blade resulted in vibration (forced shutdown).,19056,70,,2
+398,29/11/2014,26,"Construction error (misalignment, bolts not tightened) for the main shaft resulted in vibration (forced shutdown).",2574,48,,1
+399,06/12/2014,24,Extreme weather resulted in tower vibration (forced shutdown).,3030,65,,2
+400,11/12/2014,26,Slippery stairs resulted in personnel falling. Impact: Long absence,1500,0,Long absence,3
+401,15/12/2014,3,Incorrect input for the pitch system resulted in trip (forced shutdown).,2359,46,,1
+402,22/12/2014,27,Incorrect input for the yaw system resulted in trip (forced shutdown).,2322,45,,1
+403,27/12/2014,6,"Construction error (misalignment, bolts not tightened) for the main shaft resulted in vibration (forced shutdown).",2527,52,,2
+404,01/01/2015,36,Incorrect input for the yaw system resulted in trip (forced shutdown).,2335,48,,1
+405,05/01/2015,15,"Brake system failure of the rotor resulted in extreme overspeed=> tower collapse. Impact: Collapse filmed, international news media. Some 300 complaints. 5 km2 lightly polluted.",2560720,4472,"Collapse filmed, international news media. Some 300 complaints. 5 km2 lightly polluted.",4
+406,09/01/2015,25,Overload of the gearbox resulted in tooth failure.,78752,177,,3
+407,13/01/2015,26,"Collision with flock of birds of the blade resulted in rupture. Impact: Collision filmed, national news media; 80 complaints.  ",947280,630,"Collision filmed, national news media; 80 complaints.  ",4
+408,18/01/2015,3,"Construction error (misalignment, bolts not tightened) for the main shaft resulted in vibration (forced shutdown).",2505,52,,2
+409,20/01/2015,19,Overload of the gearbox resulted in tooth failure.,63065,182,,2
+410,21/01/2015,15,Extreme weather resulted in blade developing an edge crack.,761669,359,,3
+411,24/01/2015,26,Extreme weather resulted in blade developing an edge crack.,782411,324,,3
+412,25/01/2015,3,Imbalance of the blade resulted in vibration (forced shutdown).,19929,66,,2
+413,28/01/2015,8,Ventilation error for the generator resulted in overheating (forced shutdown).,2628,50,,2
+414,31/01/2015,36,Incorrect input for the pitch system resulted in trip (forced shutdown).,2635,50,,2
+415,31/01/2015,23,Extreme weather resulted in tower vibration (forced shutdown).,3241,78,,2
+416,01/02/2015,36,Incorrect input for the pitch system resulted in trip (forced shutdown).,2658,52,,2
+417,02/02/2015,16,Market demand on the vessel resulted in it being unavailable .,1500,72,,2
+418,05/02/2015,13,Market demand on the vessel resulted in it being unavailable .,1500,70,,2
+419,11/02/2015,13,Incorrect input for the pitch system resulted in trip (forced shutdown).,2579,49,,1
+420,13/02/2015,2,Construction error of the gearbox resulted in oil Leakage. Impact: Slippery floor,8429,22,Slippery floor,2
+421,20/02/2015,13,Incorrect input for the brake system resulted in trip (forced shutdown).,2504,52,,2
+422,26/02/2015,7,Contamination (salt build up) on the transformer resulted in trip (forced shutdown).,7165,50,,2
+423,03/03/2015,17,"Construction error (misalignment, bolts not tightened) for the main shaft resulted in vibration (forced shutdown).",2514,48,,1
+424,05/03/2015,35,Imbalance of the blade resulted in vibration (forced shutdown).,18505,67,,2
+425,08/03/2015,20,Incorrect input for the pitch system resulted in trip (forced shutdown).,2319,50,,1
+426,09/03/2015,2,Imbalance of the blade resulted in vibration (forced shutdown).,19126,76,,2
+427,15/03/2015,19,Imbalance of the blade resulted in vibration (forced shutdown).,21999,78,,2
+428,22/03/2015,27,Incorrect input for the brake system resulted in trip (forced shutdown).,2313,46,,1
+429,27/03/2015,3,Extreme weather resulted in blade developing an edge crack.,989644,315,,4
+430,31/03/2015,7,"Construction error (misalignment, bolts not tightened) for the main shaft resulted in vibration (forced shutdown).",2371,50,,1
+431,31/03/2015,3,Incorrect input for the yaw system resulted in trip (forced shutdown).,2657,53,,2
+432,07/04/2015,26,Contamination (salt build up) on the transformer resulted in trip (forced shutdown).,5870,44,,2
+433,14/04/2015,27,Incorrect input for the brake system resulted in trip (forced shutdown).,2654,45,,1
+434,16/04/2015,7,Construction error of the gearbox resulted in oil Leakage. Impact: Slippery floor,6554,22,Slippery floor,1
+435,19/04/2015,13,Incorrect input for the yaw system resulted in trip (forced shutdown).,2590,49,,1
+436,23/04/2015,20,Incorrect input for the pitch system resulted in trip (forced shutdown).,2355,44,,1
+437,26/04/2015,3,Imbalance of the blade resulted in vibration (forced shutdown).,18493,66,,2
+438,03/05/2015,20,Contamination (salt build up) on the transformer resulted in trip (forced shutdown).,6917,50,,2
+439,07/05/2015,6,Construction error of the gearbox resulted in oil Leakage. Impact: Slippery floor,8100,24,Slippery floor,2
+440,13/05/2015,33,Incorrect input for the yaw system resulted in trip (forced shutdown).,2504,51,,2
+441,18/05/2015,28,"Construction error (misalignment, bolts not tightened) for the main shaft resulted in vibration (forced shutdown).",2328,50,,1
+442,24/05/2015,29,Incorrect input for the yaw system resulted in trip (forced shutdown).,2408,48,,1
+443,25/05/2015,18,Slippery stairs resulted in personnel falling. Impact: Long absence,1500,0,Long absence,3
+444,30/05/2015,35,Incorrect input for the pitch system resulted in trip (forced shutdown).,2421,50,,1
+445,06/06/2015,7,Extreme weather resulted in tower vibration (forced shutdown).,2855,73,,2
+446,09/06/2015,1,Imbalance of the blade resulted in vibration (forced shutdown).,18258,69,,2
+447,11/06/2015,7,Ventilation error for the generator resulted in overheating (forced shutdown).,2559,51,,2
+448,13/06/2015,15,Extreme weather resulted in blade developing an edge crack.,946766,364,,4
+449,13/06/2015,21,Imbalance of the blade resulted in vibration (forced shutdown).,21792,66,,2
+450,20/06/2015,3,"Construction error (misalignment, bolts not tightened) for the main shaft resulted in vibration (forced shutdown).",2385,51,,2
+451,21/06/2015,16,Contamination (salt build up) on the transformer resulted in trip (forced shutdown).,6179,43,,2
+452,27/06/2015,33,Incorrect input for the pitch system resulted in trip (forced shutdown).,2632,49,,1
+453,04/07/2015,28,Wear of the cable resulted in short circuit.,55640,173,,2
+454,07/07/2015,34,"Construction error of the transformer resulted in leakage. Impact: 200 ltr oil spilled into sea, 0,8 km2 lightly polluted.",20139,77,"200 ltr oil spilled into sea, 0,8 km2 lightly polluted.",3
+455,08/07/2015,3,Contamination (salt build up) on the transformer resulted in trip (forced shutdown).,6282,44,,2
+456,15/07/2015,4,Incorrect input for the yaw system resulted in trip (forced shutdown).,2685,45,,1
+457,20/07/2015,1,Incorrect input for the brake system resulted in trip (forced shutdown).,2344,46,,1
+458,22/07/2015,7,Construction error of the gearbox resulted in oil Leakage. Impact: Slippery floor,6376,23,Slippery floor,1
+459,29/07/2015,7,Incorrect input for the yaw system resulted in trip (forced shutdown).,2511,48,,1
+460,04/08/2015,20,"Construction error of the transformer resulted in leakage. Impact: 200 ltr oil spilled into sea, 0,8 km2 lightly polluted.",23297,71,"200 ltr oil spilled into sea, 0,8 km2 lightly polluted.",3
+461,09/08/2015,6,"Collision with flock of birds of the blade resulted in rupture. Impact: Collision filmed, national news media; 80 complaints.  ",1052678,733,"Collision filmed, national news media; 80 complaints.  ",4
+462,13/08/2015,36,Incorrect input for the yaw system resulted in trip (forced shutdown).,2395,48,,1
+463,18/08/2015,31,Incorrect input for the brake system resulted in trip (forced shutdown).,2520,45,,1
+464,21/08/2015,34,Construction error of the gearbox resulted in oil Leakage. Impact: Slippery floor,8051,25,Slippery floor,2
+465,26/08/2015,2,"Construction error (misalignment, bolts not tightened) for the main shaft resulted in vibration (forced shutdown).",2303,44,,1
+466,30/08/2015,34,Incorrect input for the brake system resulted in trip (forced shutdown).,2660,44,,1
+467,01/09/2015,10,Contamination (salt build up) on the transformer resulted in trip (forced shutdown).,6466,52,,2
+468,04/09/2015,23,Imbalance of the blade resulted in vibration (forced shutdown).,19088,78,,2
+469,10/09/2015,5,Contamination (salt build up) on the transformer resulted in trip (forced shutdown).,6892,45,,2
+470,10/09/2015,19,Incorrect input for the pitch system resulted in trip (forced shutdown).,2687,46,,1
+471,11/09/2015,2,Extreme weather resulted in tower vibration (forced shutdown).,3276,66,,2
+472,12/09/2015,32,"Construction error (misalignment, bolts not tightened) for the main shaft resulted in vibration (forced shutdown).",2315,48,,1
+473,14/09/2015,14,Incorrect input for the pitch system resulted in trip (forced shutdown).,2434,51,,2
+474,14/09/2015,32,Incorrect input for the pitch system resulted in trip (forced shutdown).,2529,46,,1
+475,20/09/2015,7,Wear of the cable resulted in short circuit.,56530,177,,2
+476,21/09/2015,32,"Construction error (misalignment, bolts not tightened) for the main shaft resulted in vibration (forced shutdown).",2365,52,,2
+477,25/09/2015,20,Incorrect input for the yaw system resulted in trip (forced shutdown).,2439,50,,1
+478,02/10/2015,7,"Construction error (misalignment, bolts not tightened) for the main shaft resulted in vibration (forced shutdown).",2499,50,,1
+479,04/10/2015,24,Contamination (salt build up) on the transformer resulted in trip (forced shutdown).,5952,47,,2
+480,06/10/2015,7,Incorrect input for the yaw system resulted in trip (forced shutdown).,2335,44,,1
+481,09/10/2015,7,Contamination (salt build up) on the transformer resulted in trip (forced shutdown).,6672,47,,2
+482,16/10/2015,7,Imbalance of the blade resulted in vibration (forced shutdown).,24502,77,,2
+483,16/10/2015,31,"Construction error (misalignment, bolts not tightened) for the main shaft resulted in vibration (forced shutdown).",2439,49,,1
+484,17/10/2015,22,Incorrect input for the pitch system resulted in trip (forced shutdown).,2594,49,,1
+485,18/10/2015,32,Voltage spike for the generator resulted in trip (forced shutdown).,2340,50,,1
+486,20/10/2015,7,Construction error of the gearbox resulted in oil Leakage. Impact: Slippery floor,6629,23,Slippery floor,2
+487,27/10/2015,1,Construction error of the gearbox resulted in oil Leakage. Impact: Slippery floor,6811,22,Slippery floor,2
+488,03/11/2015,33,"Construction error (misalignment, bolts not tightened) for the main shaft resulted in vibration (forced shutdown).",2513,46,,1
+489,09/11/2015,12,Construction error of the gearbox resulted in oil Leakage. Impact: Slippery floor,6659,22,Slippery floor,1
+490,14/11/2015,29,Contamination (salt build up) on the transformer resulted in trip (forced shutdown).,5941,45,,2
+491,19/11/2015,27,Incorrect input for the pitch system resulted in trip (forced shutdown).,2346,47,,1
+492,20/11/2015,8,Market demand on the vessel resulted in it being unavailable .,1500,77,,2
+493,27/11/2015,14,Incorrect input for the brake system resulted in trip (forced shutdown).,2489,47,,1
+494,02/12/2015,32,Construction error of the gearbox resulted in oil Leakage. Impact: Slippery floor,6350,23,Slippery floor,1
+495,05/12/2015,31,Incorrect input for the yaw system resulted in trip (forced shutdown).,2522,50,,2
+496,10/12/2015,16,Incorrect input for the yaw system resulted in trip (forced shutdown).,2694,49,,2
+497,12/12/2015,31,Overload of the gearbox resulted in tooth failure.,82232,160,,3
+498,16/12/2015,9,Wear of the cable resulted in short circuit.,41715,157,,2
+499,17/12/2015,7,Incorrect input for the yaw system resulted in trip (forced shutdown).,2450,52,,2
+500,23/12/2015,33,Imbalance of the blade resulted in vibration (forced shutdown).,18910,69,,2
+501,30/12/2015,7,Ventilation error for the generator resulted in overheating (forced shutdown).,2552,48,,1
+502,30/12/2015,18,Incorrect input for the pitch system resulted in trip (forced shutdown).,2545,51,,2
+503,04/01/2016,7,Imbalance of the blade resulted in vibration (forced shutdown).,18715,65,,2
+504,09/01/2016,5,Voltage spike for the generator resulted in trip (forced shutdown).,2501,48,,1
+505,15/01/2016,18,Extreme weather resulted in blade developing an edge crack.,843456,321,,3
+506,17/01/2016,5,Contamination (salt build up) on the transformer resulted in trip (forced shutdown).,6623,46,,2
+507,24/01/2016,3,Incorrect input for the brake system resulted in trip (forced shutdown).,2637,49,,1
+508,24/01/2016,17,Incorrect input for the pitch system resulted in trip (forced shutdown).,2617,44,,1
+509,30/01/2016,34,Incorrect input for the pitch system resulted in trip (forced shutdown).,2647,51,,2
+510,04/02/2016,16,Incorrect input for the brake system resulted in trip (forced shutdown).,2381,47,,1
+511,08/02/2016,25,Imbalance of the blade resulted in vibration (forced shutdown).,22837,74,,2
+512,13/02/2016,11,"Brake system failure of the rotor resulted in extreme overspeed=> tower collapse. Impact: Collapse filmed, international news media. Some 300 complaints. 5 km2 lightly polluted.",2520349,4321,"Collapse filmed, international news media. Some 300 complaints. 5 km2 lightly polluted.",4
+513,14/02/2016,18,"Construction error (misalignment, bolts not tightened) for the main shaft resulted in vibration (forced shutdown).",2478,48,,1
+514,18/02/2016,6,Incorrect input for the pitch system resulted in trip (forced shutdown).,2606,48,,1
+515,21/02/2016,30,"Construction error (misalignment, bolts not tightened) for the main shaft resulted in vibration (forced shutdown).",2402,51,,2
+516,21/02/2016,29,Overload of the gearbox resulted in tooth failure.,73820,155,,2
+517,27/02/2016,7,Incorrect input for the yaw system resulted in trip (forced shutdown).,2353,52,,2
+518,29/02/2016,30,Extreme weather resulted in tower vibration (forced shutdown).,2946,75,,2
+519,03/03/2016,5,"Brake system failure of the rotor resulted in extreme overspeed=> tower collapse. Impact: Collapse filmed, international news media. Some 300 complaints. 5 km2 lightly polluted.",2439050,4272,"Collapse filmed, international news media. Some 300 complaints. 5 km2 lightly polluted.",4
+520,06/03/2016,20,Imbalance of the blade resulted in vibration (forced shutdown).,19449,68,,2
+521,06/03/2016,26,Imbalance of the blade resulted in vibration (forced shutdown).,21049,72,,2
+522,13/03/2016,7,Incorrect input for the brake system resulted in trip (forced shutdown).,2471,44,,1
+523,14/03/2016,22,"Construction error (misalignment, bolts not tightened) for the main shaft resulted in vibration (forced shutdown).",2645,44,,1
+524,15/03/2016,17,Incorrect input for the yaw system resulted in trip (forced shutdown).,2684,52,,2
+525,20/03/2016,17,Extreme weather resulted in tower vibration (forced shutdown).,3002,65,,2
+526,23/03/2016,29,Contamination (salt build up) on the transformer resulted in trip (forced shutdown).,6870,51,,2
+527,27/03/2016,30,Incorrect input for the brake system resulted in trip (forced shutdown).,2676,46,,1
+528,01/04/2016,19,Construction error of the gearbox resulted in oil Leakage. Impact: Slippery floor,7154,23,Slippery floor,2
+529,04/04/2016,8,"Construction error (misalignment, bolts not tightened) for the main shaft resulted in vibration (forced shutdown).",2520,51,,2
+530,07/04/2016,26,Ventilation error for the generator resulted in overheating (forced shutdown).,2438,46,,1
+531,08/04/2016,11,Imbalance of the blade resulted in vibration (forced shutdown).,24939,69,,2
+532,14/04/2016,35,"Construction error (misalignment, bolts not tightened) for the main shaft resulted in vibration (forced shutdown).",2691,47,,1
+533,15/04/2016,25,Incorrect input for the pitch system resulted in trip (forced shutdown).,2582,49,,1
+534,20/04/2016,12,Incorrect input for the yaw system resulted in trip (forced shutdown).,2621,44,,1
+535,24/04/2016,14,Extreme weather resulted in blade developing an edge crack.,896443,317,,3
+536,30/04/2016,27,Wear of the cable resulted in short circuit.,45843,177,,2
+537,01/05/2016,6,Ventilation error for the generator resulted in overheating (forced shutdown).,2697,46,,1
+538,01/05/2016,31,Contamination (salt build up) on the transformer resulted in trip (forced shutdown).,7294,47,,2
+539,07/05/2016,9,Incorrect input for the yaw system resulted in trip (forced shutdown).,2396,48,,1
+540,09/05/2016,17,Contamination (salt build up) on the transformer resulted in trip (forced shutdown).,5697,48,,2
+541,13/05/2016,30,Extreme weather resulted in tower vibration (forced shutdown).,3061,71,,2
+542,19/05/2016,28,Overload of the gearbox resulted in tooth failure.,69611,152,,2
+543,22/05/2016,5,Imbalance of the blade resulted in vibration (forced shutdown).,17526,72,,2
+544,27/05/2016,5,Voltage spike for the generator resulted in trip (forced shutdown).,2672,46,,1
+545,31/05/2016,13,Incorrect input for the pitch system resulted in trip (forced shutdown).,2459,48,,1
+546,05/06/2016,12,Contamination (salt build up) on the transformer resulted in trip (forced shutdown).,6579,49,,2
+547,07/06/2016,25,Slippery stairs resulted in personnel falling. Impact: Long absence,1500,0,Long absence,3
+548,09/06/2016,6,Contamination (salt build up) on the transformer resulted in trip (forced shutdown).,5628,49,,2
+549,16/06/2016,12,Incorrect input for the pitch system resulted in trip (forced shutdown).,2579,49,,1
+550,20/06/2016,30,"Construction error (misalignment, bolts not tightened) for the main shaft resulted in vibration (forced shutdown).",2422,47,,1
+551,27/06/2016,7,Slippery stairs resulted in personnel falling. Impact: Long absence,1500,0,Long absence,3
+552,01/07/2016,8,Slippery stairs resulted in personnel falling. Impact: Long absence,1500,0,Long absence,3
+553,05/07/2016,4,"Construction error (misalignment, bolts not tightened) for the main shaft resulted in vibration (forced shutdown).",2410,48,,1
+554,08/07/2016,33,Incorrect input for the yaw system resulted in trip (forced shutdown).,2422,46,,1
+555,09/07/2016,5,Contamination (salt build up) on the transformer resulted in trip (forced shutdown).,6091,53,,2
+556,16/07/2016,34,Imbalance of the blade resulted in vibration (forced shutdown).,20047,76,,2
+557,17/07/2016,31,Imbalance of the blade resulted in vibration (forced shutdown).,22592,74,,2
+558,21/07/2016,24,Imbalance of the blade resulted in vibration (forced shutdown).,20587,72,,2
+559,24/07/2016,20,Wear of the cable resulted in short circuit.,54019,179,,2
+560,25/07/2016,8,Contamination (salt build up) on the transformer resulted in trip (forced shutdown).,6000,51,,2
+561,30/07/2016,11,Incorrect input for the yaw system resulted in trip (forced shutdown).,2511,52,,2
+562,06/08/2016,22,Ventilation error for the generator resulted in overheating (forced shutdown).,2423,49,,1
+563,12/08/2016,2,Extreme weather resulted in substructure developing acrack.,323218,644,,3
+564,13/08/2016,16,Market demand on the vessel resulted in it being unavailable .,1500,73,,2
+565,15/08/2016,9,"Construction error of the transformer resulted in leakage. Impact: 200 ltr oil spilled into sea, 0,8 km2 lightly polluted.",23142,67,"200 ltr oil spilled into sea, 0,8 km2 lightly polluted.",3
+566,16/08/2016,3,Ventilation error for the generator resulted in overheating (forced shutdown).,2577,47,,1
+567,19/08/2016,17,Construction error of the gearbox resulted in oil Leakage. Impact: Slippery floor,7744,24,Slippery floor,2
+568,25/08/2016,1,Extreme weather resulted in blade developing an edge crack.,1090794,304,,4
+569,29/08/2016,7,Contamination (salt build up) on the transformer resulted in trip (forced shutdown).,7398,44,,2
+570,29/08/2016,19,Wear of the cable resulted in short circuit.,44387,181,,2
+571,30/08/2016,9,Incorrect input for the yaw system resulted in trip (forced shutdown).,2537,51,,2
+572,03/09/2016,17,Ventilation error for the generator resulted in overheating (forced shutdown).,2694,48,,1
+573,10/09/2016,28,Market demand on the vessel resulted in it being unavailable .,1500,71,,2
+574,14/09/2016,35,Contamination (salt build up) on the transformer resulted in trip (forced shutdown).,5785,44,,2
+575,16/09/2016,23,Incorrect input for the pitch system resulted in trip (forced shutdown).,2406,51,,2
+576,19/09/2016,21,Construction error of the gearbox resulted in oil Leakage. Impact: Slippery floor,8673,26,Slippery floor,2
+577,24/09/2016,34,Contamination (salt build up) on the transformer resulted in trip (forced shutdown).,6947,50,,2
+578,28/09/2016,8,"Construction error (misalignment, bolts not tightened) for the main shaft resulted in vibration (forced shutdown).",2642,48,,1
+579,02/10/2016,26,Incorrect input for the pitch system resulted in trip (forced shutdown).,2656,47,,1
+580,07/10/2016,8,Overload of the gearbox resulted in tooth failure.,67730,162,,2
+581,12/10/2016,29,Ventilation error for the generator resulted in overheating (forced shutdown).,2531,50,,2
+582,14/10/2016,5,Incorrect input for the pitch system resulted in trip (forced shutdown).,2692,44,,1
+583,14/10/2016,34,Extreme weather resulted in tower vibration (forced shutdown).,3169,66,,2
+584,20/10/2016,5,Construction error of the gearbox resulted in oil Leakage. Impact: Slippery floor,8002,25,Slippery floor,2
+585,20/10/2016,15,Wear of the cable resulted in short circuit.,57670,160,,2
+586,27/10/2016,7,Incorrect input for the brake system resulted in trip (forced shutdown).,2506,50,,2
+587,30/10/2016,14,Contamination (salt build up) on the transformer resulted in trip (forced shutdown).,7396,48,,2
+588,01/11/2016,7,Slippery stairs resulted in personnel falling. Impact: Long absence,1500,0,Long absence,3
+589,04/11/2016,2,"Brake system failure of the rotor resulted in extreme overspeed=> tower collapse. Impact: Collapse filmed, international news media. Some 300 complaints. 5 km2 lightly polluted.",3187352,4804,"Collapse filmed, international news media. Some 300 complaints. 5 km2 lightly polluted.",4
+590,04/11/2016,13,Voltage spike for the generator resulted in trip (forced shutdown).,2412,51,,2
+591,08/11/2016,32,Contamination (salt build up) on the transformer resulted in trip (forced shutdown).,7445,46,,2
+592,15/11/2016,31,Wear of the cable resulted in short circuit.,41305,176,,2
+593,22/11/2016,5,Contamination (salt build up) on the transformer resulted in trip (forced shutdown).,5541,51,,2
+594,26/11/2016,12,Incorrect input for the yaw system resulted in trip (forced shutdown).,2555,52,,2
+595,01/12/2016,16,Voltage spike for the generator resulted in trip (forced shutdown).,2364,47,,1
+596,04/12/2016,6,Incorrect input for the pitch system resulted in trip (forced shutdown).,2570,44,,1
+597,07/12/2016,16,Incorrect input for the pitch system resulted in trip (forced shutdown).,2464,52,,2
+598,12/12/2016,13,Contamination (salt build up) on the transformer resulted in trip (forced shutdown).,6379,48,,2
+599,14/12/2016,7,Ventilation error for the generator resulted in overheating (forced shutdown).,2669,51,,2
+600,21/12/2016,36,Incorrect input for the yaw system resulted in trip (forced shutdown).,2532,44,,1
+601,27/12/2016,33,Incorrect input for the yaw system resulted in trip (forced shutdown).,2446,50,,1
+602,01/01/2017,21,Contamination (salt build up) on the transformer resulted in trip (forced shutdown).,5955,49,,2
+603,08/01/2017,8,Incorrect input for the brake system resulted in trip (forced shutdown).,2472,51,,2
+604,12/01/2017,7,Incorrect input for the brake system resulted in trip (forced shutdown).,2443,45,,1
+605,14/01/2017,9,Contamination (salt build up) on the transformer resulted in trip (forced shutdown).,7168,46,,2
+606,20/01/2017,35,Construction error of the gearbox resulted in oil Leakage. Impact: Slippery floor,7957,22,Slippery floor,2
+607,24/01/2017,7,Imbalance of the blade resulted in vibration (forced shutdown).,21379,72,,2
+608,27/01/2017,2,Imbalance of the blade resulted in vibration (forced shutdown).,22930,77,,2
+609,02/02/2017,7,Construction error of the gearbox resulted in oil Leakage. Impact: Slippery floor,7989,23,Slippery floor,2
+610,08/02/2017,7,Market demand on the vessel resulted in it being unavailable .,1500,78,,2
+611,09/02/2017,7,Contamination (salt build up) on the transformer resulted in trip (forced shutdown).,6860,49,,2
+612,10/02/2017,31,Incorrect input for the pitch system resulted in trip (forced shutdown).,2350,48,,1
+613,11/02/2017,5,Incorrect input for the yaw system resulted in trip (forced shutdown).,2521,50,,2
+614,13/02/2017,19,Incorrect input for the pitch system resulted in trip (forced shutdown).,2536,45,,1
+615,14/02/2017,7,Incorrect input for the brake system resulted in trip (forced shutdown).,2611,48,,1
+616,15/02/2017,8,Contamination (salt build up) on the transformer resulted in trip (forced shutdown).,6054,51,,2
+617,17/02/2017,33,Market demand on the vessel resulted in it being unavailable .,1500,65,,2
+618,23/02/2017,22,Ventilation error for the generator resulted in overheating (forced shutdown).,2583,48,,1
+619,25/02/2017,33,Extreme weather resulted in tower vibration (forced shutdown).,2911,78,,2
+620,02/03/2017,33,Construction error of the gearbox resulted in oil Leakage. Impact: Slippery floor,6402,23,Slippery floor,1
+621,07/03/2017,18,"Construction error (misalignment, bolts not tightened) for the main shaft resulted in vibration (forced shutdown).",2436,46,,1
+622,08/03/2017,32,Contamination (salt build up) on the transformer resulted in trip (forced shutdown).,6542,46,,2
+623,10/03/2017,18,Contamination (salt build up) on the transformer resulted in trip (forced shutdown).,6864,50,,2
+624,14/03/2017,12,Contamination (salt build up) on the transformer resulted in trip (forced shutdown).,5963,52,,2
+625,19/03/2017,19,Extreme weather resulted in tower vibration (forced shutdown).,2885,71,,2
+626,25/03/2017,14,Incorrect input for the yaw system resulted in trip (forced shutdown).,2697,48,,1
+627,25/03/2017,2,Incorrect input for the pitch system resulted in trip (forced shutdown).,2658,52,,2
+628,29/03/2017,19,Incorrect input for the yaw system resulted in trip (forced shutdown).,2454,46,,1
+629,31/03/2017,27,Construction error of the gearbox resulted in oil Leakage. Impact: Slippery floor,7747,23,Slippery floor,2
+630,06/04/2017,12,Extreme weather resulted in tower vibration (forced shutdown).,2820,76,,2
+631,13/04/2017,8,Incorrect input for the pitch system resulted in trip (forced shutdown).,2440,44,,1
+632,17/04/2017,31,Incorrect input for the yaw system resulted in trip (forced shutdown).,2641,50,,2
+633,22/04/2017,7,Extreme weather resulted in blade developing an edge crack.,958985,323,,4
+634,25/04/2017,14,Ventilation error for the generator resulted in overheating (forced shutdown).,2514,49,,1
+635,25/04/2017,19,"Construction error of the transformer resulted in leakage. Impact: 200 ltr oil spilled into sea, 0,8 km2 lightly polluted.",19748,66,"200 ltr oil spilled into sea, 0,8 km2 lightly polluted.",3
+636,28/04/2017,6,Overload of the gearbox resulted in tooth failure.,62730,184,,2
+637,03/05/2017,35,Incorrect input for the pitch system resulted in trip (forced shutdown).,2658,51,,2
+638,07/05/2017,23,Extreme weather resulted in tower vibration (forced shutdown).,2799,71,,2
+639,12/05/2017,11,Incorrect input for the yaw system resulted in trip (forced shutdown).,2577,48,,1
+640,16/05/2017,16,Incorrect input for the brake system resulted in trip (forced shutdown).,2463,52,,2
+641,16/05/2017,4,Contamination (salt build up) on the transformer resulted in trip (forced shutdown).,6739,45,,2
+642,23/05/2017,26,"Brake system failure of the rotor resulted in extreme overspeed=> tower collapse. Impact: Collapse filmed, international news media. Some 300 complaints. 5 km2 lightly polluted.",3275842,4122,"Collapse filmed, international news media. Some 300 complaints. 5 km2 lightly polluted.",4
+643,30/05/2017,12,Construction error of the gearbox resulted in oil Leakage. Impact: Slippery floor,7486,22,Slippery floor,2
+644,31/05/2017,19,Contamination (salt build up) on the transformer resulted in trip (forced shutdown).,6389,47,,2
+645,04/06/2017,28,Imbalance of the blade resulted in vibration (forced shutdown).,20754,70,,2
+646,10/06/2017,3,"Construction error (misalignment, bolts not tightened) for the main shaft resulted in vibration (forced shutdown).",2416,45,,1
+647,13/06/2017,29,Incorrect input for the yaw system resulted in trip (forced shutdown).,2657,51,,2
+648,15/06/2017,33,Incorrect input for the brake system resulted in trip (forced shutdown).,2544,51,,2
+649,22/06/2017,16,Contamination (salt build up) on the transformer resulted in trip (forced shutdown).,7114,51,,2
+650,26/06/2017,15,Incorrect input for the pitch system resulted in trip (forced shutdown).,2517,48,,1
+651,29/06/2017,28,Imbalance of the blade resulted in vibration (forced shutdown).,17782,77,,2
+652,30/06/2017,28,Overload of the gearbox resulted in tooth failure.,65493,166,,2
+653,07/07/2017,35,Incorrect input for the yaw system resulted in trip (forced shutdown).,2489,50,,1
+654,12/07/2017,2,Imbalance of the blade resulted in vibration (forced shutdown).,19648,72,,2
+655,14/07/2017,7,Imbalance of the blade resulted in vibration (forced shutdown).,24668,76,,2
+656,15/07/2017,4,Ventilation error for the generator resulted in overheating (forced shutdown).,2352,44,,1
+657,19/07/2017,26,"Construction error of the transformer resulted in leakage. Impact: 200 ltr oil spilled into sea, 0,8 km2 lightly polluted.",22878,67,"200 ltr oil spilled into sea, 0,8 km2 lightly polluted.",3
+658,21/07/2017,7,Overload of the gearbox resulted in tooth failure.,59939,161,,2
+659,21/07/2017,34,Incorrect input for the yaw system resulted in trip (forced shutdown).,2468,46,,1
+660,23/07/2017,14,Construction error of the gearbox resulted in oil Leakage. Impact: Slippery floor,7602,23,Slippery floor,2
+661,27/07/2017,24,Construction error of the gearbox resulted in oil Leakage. Impact: Slippery floor,6451,23,Slippery floor,1
+662,27/07/2017,32,Ventilation error for the generator resulted in overheating (forced shutdown).,2351,50,,1
+663,31/07/2017,18,Voltage spike for the generator resulted in trip (forced shutdown).,2665,45,,1
+664,07/08/2017,28,Incorrect input for the yaw system resulted in trip (forced shutdown).,2338,49,,1
+665,13/08/2017,1,"Collision with flock of birds of the blade resulted in rupture. Impact: Collision filmed, national news media; 80 complaints.  ",1026322,623,"Collision filmed, national news media; 80 complaints.  ",4
+666,19/08/2017,13,Imbalance of the blade resulted in vibration (forced shutdown).,24006,79,,2
+667,21/08/2017,12,Incorrect input for the yaw system resulted in trip (forced shutdown).,2572,52,,2
+668,25/08/2017,4,Imbalance of the blade resulted in vibration (forced shutdown).,19050,66,,2
+669,27/08/2017,7,Incorrect input for the pitch system resulted in trip (forced shutdown).,2417,48,,1
+670,02/09/2017,1,Imbalance of the blade resulted in vibration (forced shutdown).,23293,77,,2
+671,02/09/2017,4,Slippery stairs resulted in personnel falling. Impact: Long absence,1500,0,Long absence,3
+672,07/09/2017,7,Construction error of the gearbox resulted in oil Leakage. Impact: Slippery floor,7692,26,Slippery floor,2
+673,11/09/2017,27,Incorrect input for the pitch system resulted in trip (forced shutdown).,2601,50,,2
+674,16/09/2017,4,"Construction error (misalignment, bolts not tightened) for the main shaft resulted in vibration (forced shutdown).",2541,53,,2
+675,21/09/2017,20,Contamination (salt build up) on the transformer resulted in trip (forced shutdown).,7227,44,,2
+676,26/09/2017,1,Incorrect input for the yaw system resulted in trip (forced shutdown).,2367,47,,1
+677,27/09/2017,11,Contamination (salt build up) on the transformer resulted in trip (forced shutdown).,7337,46,,2
+678,02/10/2017,17,Imbalance of the blade resulted in vibration (forced shutdown).,19395,76,,2
+679,05/10/2017,15,Corrosion of the tower resulted in loss of strength.,70681,728,,3
+680,07/10/2017,7,Contamination (salt build up) on the transformer resulted in trip (forced shutdown).,5726,49,,2
+681,12/10/2017,7,Extreme weather resulted in blade developing an edge crack.,989610,366,,4
+682,17/10/2017,7,Overload of the gearbox resulted in tooth failure.,78604,184,,3
+683,22/10/2017,12,Imbalance of the blade resulted in vibration (forced shutdown).,21759,72,,2
+684,26/10/2017,16,Incorrect input for the yaw system resulted in trip (forced shutdown).,2362,49,,1
+685,30/10/2017,27,Incorrect input for the pitch system resulted in trip (forced shutdown).,2633,49,,1
+686,05/11/2017,28,Incorrect input for the yaw system resulted in trip (forced shutdown).,2571,43,,1
+687,09/11/2017,33,Slippery stairs resulted in personnel falling. Impact: Long absence,1500,0,Long absence,3
+688,10/11/2017,3,Overload of the gearbox resulted in tooth failure.,64245,152,,2
+689,11/11/2017,23,Extreme weather resulted in tower vibration (forced shutdown).,2936,65,,2
+690,15/11/2017,1,"Construction error (misalignment, bolts not tightened) for the main shaft resulted in vibration (forced shutdown).",2461,46,,1
+691,20/11/2017,16,Imbalance of the blade resulted in vibration (forced shutdown).,19627,65,,2
+692,22/11/2017,12,"Collision with flock of birds of the blade resulted in rupture. Impact: Collision filmed, national news media; 80 complaints.  ",782368,678,"Collision filmed, national news media; 80 complaints.  ",3
+693,25/11/2017,28,Market demand on the vessel resulted in it being unavailable .,1500,70,,2
+694,26/11/2017,29,Incorrect input for the yaw system resulted in trip (forced shutdown).,2453,44,,1
+695,01/12/2017,28,Incorrect input for the pitch system resulted in trip (forced shutdown).,2558,43,,1
+696,03/12/2017,34,Imbalance of the blade resulted in vibration (forced shutdown).,23199,75,,2
+697,09/12/2017,17,Contamination (salt build up) on the transformer resulted in trip (forced shutdown).,5854,46,,2
+698,12/12/2017,34,Incorrect input for the pitch system resulted in trip (forced shutdown).,2587,50,,2
+699,18/12/2017,3,Contamination (salt build up) on the transformer resulted in trip (forced shutdown).,5816,51,,2
+700,18/12/2017,24,Voltage spike for the generator resulted in trip (forced shutdown).,2487,52,,2
+701,20/12/2017,25,Overload of the gearbox resulted in tooth failure.,82481,153,,3
+702,23/12/2017,31,Construction error of the gearbox resulted in oil Leakage. Impact: Slippery floor,7553,26,Slippery floor,2
+703,25/12/2017,4,Incorrect input for the pitch system resulted in trip (forced shutdown).,2380,52,,2
+704,29/12/2017,7,Incorrect input for the pitch system resulted in trip (forced shutdown).,2541,48,,1
+705,31/12/2017,7,Extreme weather resulted in substructure developing acrack.,287494,732,,3
+706,02/01/2018,26,Contamination (salt build up) on the transformer resulted in trip (forced shutdown).,6779,49,,2
+707,06/01/2018,4,Contamination (salt build up) on the transformer resulted in trip (forced shutdown).,6137,44,,2
+708,09/01/2018,33,Incorrect input for the brake system resulted in trip (forced shutdown).,2378,50,,1
+709,10/01/2018,11,Incorrect input for the yaw system resulted in trip (forced shutdown).,2648,44,,1
+710,17/01/2018,31,Imbalance of the blade resulted in vibration (forced shutdown).,22203,71,,2
+711,21/01/2018,35,Overload of the gearbox resulted in tooth failure.,76799,175,,3
+712,24/01/2018,7,Ventilation error for the generator resulted in overheating (forced shutdown).,2378,52,,2
+713,24/01/2018,36,Incorrect input for the yaw system resulted in trip (forced shutdown).,2435,48,,1
+714,31/01/2018,6,"Construction error (misalignment, bolts not tightened) for the main shaft resulted in vibration (forced shutdown).",2606,51,,2
+715,01/02/2018,35,Incorrect input for the yaw system resulted in trip (forced shutdown).,2449,47,,1
+716,04/02/2018,22,Imbalance of the blade resulted in vibration (forced shutdown).,23472,66,,2
+717,09/02/2018,18,"Construction error (misalignment, bolts not tightened) for the main shaft resulted in vibration (forced shutdown).",2381,51,,2
+718,13/02/2018,36,Incorrect input for the brake system resulted in trip (forced shutdown).,2661,46,,1
+719,18/02/2018,7,Imbalance of the blade resulted in vibration (forced shutdown).,25190,76,,2
+720,22/02/2018,16,Incorrect input for the yaw system resulted in trip (forced shutdown).,2612,49,,1
+721,25/02/2018,12,"Collision with flock of birds of the blade resulted in rupture. Impact: Collision filmed, national news media; 80 complaints.  ",1048341,640,"Collision filmed, national news media; 80 complaints.  ",4
+722,25/02/2018,10,Ventilation error for the generator resulted in overheating (forced shutdown).,2608,49,,1
+723,01/03/2018,36,Contamination (salt build up) on the transformer resulted in trip (forced shutdown).,7427,48,,2
+724,06/03/2018,5,Contamination (salt build up) on the transformer resulted in trip (forced shutdown).,7157,46,,2
+725,08/03/2018,21,Incorrect input for the yaw system resulted in trip (forced shutdown).,2664,45,,1
+726,09/03/2018,3,"Construction error of the transformer resulted in leakage. Impact: 200 ltr oil spilled into sea, 0,8 km2 lightly polluted.",18458,67,"200 ltr oil spilled into sea, 0,8 km2 lightly polluted.",3
+727,13/03/2018,27,Imbalance of the blade resulted in vibration (forced shutdown).,22107,72,,2
+728,13/03/2018,14,Extreme weather resulted in blade developing an edge crack.,803104,349,,3
+729,15/03/2018,25,Incorrect input for the pitch system resulted in trip (forced shutdown).,2397,53,,2
+730,21/03/2018,15,Extreme weather resulted in tower vibration (forced shutdown).,3242,77,,2
+731,23/03/2018,31,Imbalance of the blade resulted in vibration (forced shutdown).,19462,67,,2
+732,26/03/2018,19,"Construction error (misalignment, bolts not tightened) for the main shaft resulted in vibration (forced shutdown).",2642,49,,1
+733,31/03/2018,33,Incorrect input for the yaw system resulted in trip (forced shutdown).,2392,45,,1
+734,07/04/2018,6,Contamination (salt build up) on the transformer resulted in trip (forced shutdown).,6931,51,,2
+735,09/04/2018,7,Market demand on the vessel resulted in it being unavailable .,1500,67,,2
+736,14/04/2018,29,"Construction error (misalignment, bolts not tightened) for the main shaft resulted in vibration (forced shutdown).",2654,50,,2
+737,21/04/2018,15,Incorrect input for the pitch system resulted in trip (forced shutdown).,2618,45,,1
+738,24/04/2018,4,Construction error of the gearbox resulted in oil Leakage. Impact: Slippery floor,7498,22,Slippery floor,2
+739,25/04/2018,6,Incorrect input for the pitch system resulted in trip (forced shutdown).,2457,48,,1
+740,28/04/2018,31,Voltage spike for the generator resulted in trip (forced shutdown).,2476,49,,1
+741,01/05/2018,10,Incorrect input for the pitch system resulted in trip (forced shutdown).,2317,49,,1
+742,07/05/2018,36,Incorrect input for the pitch system resulted in trip (forced shutdown).,2499,49,,1
+743,09/05/2018,5,Slippery stairs resulted in personnel falling. Impact: Long absence,1500,0,Long absence,3
+744,16/05/2018,7,Ventilation error for the generator resulted in overheating (forced shutdown).,2404,49,,1
+745,21/05/2018,2,Incorrect input for the brake system resulted in trip (forced shutdown).,2420,49,,1
+746,26/05/2018,29,Contamination (salt build up) on the transformer resulted in trip (forced shutdown).,6428,53,,2
+747,29/05/2018,28,Contamination (salt build up) on the transformer resulted in trip (forced shutdown).,5680,53,,2
+748,04/06/2018,33,Construction error of the gearbox resulted in oil Leakage. Impact: Slippery floor,8470,22,Slippery floor,2
+749,06/06/2018,28,Overload of the gearbox resulted in tooth failure.,69637,179,,2
+750,13/06/2018,20,"Construction error (misalignment, bolts not tightened) for the main shaft resulted in vibration (forced shutdown).",2341,52,,2
+751,14/06/2018,36,Construction error of the gearbox resulted in oil Leakage. Impact: Slippery floor,8400,24,Slippery floor,2
+752,21/06/2018,17,Incorrect input for the brake system resulted in trip (forced shutdown).,2437,48,,1
+753,26/06/2018,34,Overload of the gearbox resulted in tooth failure.,60129,184,,2
+754,28/06/2018,19,Contamination (salt build up) on the transformer resulted in trip (forced shutdown).,7072,45,,2
+755,04/07/2018,24,Incorrect input for the pitch system resulted in trip (forced shutdown).,2318,52,,2
+756,11/07/2018,7,Overload of the gearbox resulted in tooth failure.,81248,175,,3
+757,11/07/2018,22,"Construction error (misalignment, bolts not tightened) for the main shaft resulted in vibration (forced shutdown).",2645,47,,1
+758,13/07/2018,18,Incorrect input for the brake system resulted in trip (forced shutdown).,2498,48,,1
+759,18/07/2018,7,Imbalance of the blade resulted in vibration (forced shutdown).,23403,73,,2
+760,20/07/2018,15,Extreme weather resulted in substructure developing acrack.,324705,655,,3
+761,27/07/2018,20,Incorrect input for the brake system resulted in trip (forced shutdown).,2369,46,,1
+762,30/07/2018,11,Market demand on the vessel resulted in it being unavailable .,1500,71,,2
+763,05/08/2018,2,Incorrect input for the pitch system resulted in trip (forced shutdown).,2489,46,,1
+764,09/08/2018,13,Incorrect input for the yaw system resulted in trip (forced shutdown).,2404,47,,1
+765,15/08/2018,10,Ventilation error for the generator resulted in overheating (forced shutdown).,2433,48,,1
+766,15/08/2018,27,Extreme weather resulted in blade developing an edge crack.,936836,334,,3
+767,21/08/2018,3,Construction error of the gearbox resulted in oil Leakage. Impact: Slippery floor,6384,23,Slippery floor,1
+768,24/08/2018,4,Incorrect input for the pitch system resulted in trip (forced shutdown).,2631,44,,1
+769,31/08/2018,20,Extreme weather resulted in blade developing an edge crack.,862352,329,,3
+770,04/09/2018,19,Imbalance of the blade resulted in vibration (forced shutdown).,24192,69,,2
+771,09/09/2018,2,Extreme weather resulted in tower vibration (forced shutdown).,3068,75,,2
+772,10/09/2018,19,Incorrect input for the pitch system resulted in trip (forced shutdown).,2622,48,,1
+773,12/09/2018,29,Extreme weather resulted in tower vibration (forced shutdown).,2830,68,,2
+774,13/09/2018,29,Incorrect input for the pitch system resulted in trip (forced shutdown).,2350,52,,2
+775,19/09/2018,23,Contamination (salt build up) on the transformer resulted in trip (forced shutdown).,5893,44,,2
+776,21/09/2018,9,Voltage spike for the generator resulted in trip (forced shutdown).,2585,46,,1
+777,25/09/2018,8,Contamination (salt build up) on the transformer resulted in trip (forced shutdown).,7035,47,,2
+778,29/09/2018,18,Wear of the cable resulted in short circuit.,48152,174,,2
+779,04/10/2018,7,Overload of the gearbox resulted in tooth failure.,65225,170,,2
+780,05/10/2018,35,Corrosion of the tower resulted in loss of strength.,82579,722,,3
+781,10/10/2018,2,Overload of the gearbox resulted in tooth failure.,61997,164,,2
+782,17/10/2018,15,Incorrect input for the yaw system resulted in trip (forced shutdown).,2474,47,,1
+783,19/10/2018,36,Voltage spike for the generator resulted in trip (forced shutdown).,2467,49,,1
+784,23/10/2018,9,Construction error of the gearbox resulted in oil Leakage. Impact: Slippery floor,6947,25,Slippery floor,2
+785,29/10/2018,11,Incorrect input for the pitch system resulted in trip (forced shutdown).,2507,46,,1
+786,04/11/2018,5,Imbalance of the blade resulted in vibration (forced shutdown).,18365,66,,2
+787,07/11/2018,31,Incorrect input for the brake system resulted in trip (forced shutdown).,2316,53,,2
+788,13/11/2018,14,"Collision with flock of birds of the blade resulted in rupture. Impact: Collision filmed, national news media; 80 complaints.  ",1059105,629,"Collision filmed, national news media; 80 complaints.  ",4
+789,13/11/2018,14,Contamination (salt build up) on the transformer resulted in trip (forced shutdown).,5911,50,,2
+790,16/11/2018,7,Voltage spike for the generator resulted in trip (forced shutdown).,2565,51,,2
+791,19/11/2018,3,Contamination (salt build up) on the transformer resulted in trip (forced shutdown).,5824,44,,2
+792,22/11/2018,7,Contamination (salt build up) on the transformer resulted in trip (forced shutdown).,7241,48,,2
+793,25/11/2018,7,Contamination (salt build up) on the transformer resulted in trip (forced shutdown).,5996,47,,2
+794,26/11/2018,2,Overload of the gearbox resulted in tooth failure.,80670,167,,3
+795,26/11/2018,34,Incorrect input for the pitch system resulted in trip (forced shutdown).,2450,49,,1
+796,28/11/2018,30,Incorrect input for the yaw system resulted in trip (forced shutdown).,2536,51,,2
+797,03/12/2018,18,Imbalance of the blade resulted in vibration (forced shutdown).,24664,75,,2
+798,09/12/2018,22,Contamination (salt build up) on the transformer resulted in trip (forced shutdown).,7331,45,,2
+799,11/12/2018,21,Contamination (salt build up) on the transformer resulted in trip (forced shutdown).,6808,46,,2
+800,18/12/2018,7,Ventilation error for the generator resulted in overheating (forced shutdown).,2637,48,,1
+801,19/12/2018,18,Construction error of the gearbox resulted in oil Leakage. Impact: Slippery floor,6489,26,Slippery floor,2
+802,21/12/2018,18,Contamination (salt build up) on the transformer resulted in trip (forced shutdown).,6116,47,,2
+803,27/12/2018,3,Contamination (salt build up) on the transformer resulted in trip (forced shutdown).,6528,45,,2
+804,31/12/2018,23,Contamination (salt build up) on the transformer resulted in trip (forced shutdown).,5890,47,,2
+805,06/01/2019,10,Incorrect input for the brake system resulted in trip (forced shutdown).,2370,51,,2
+806,06/01/2019,7,Contamination (salt build up) on the transformer resulted in trip (forced shutdown).,6749,51,,2
+807,13/01/2019,14,"Construction error (misalignment, bolts not tightened) for the main shaft resulted in vibration (forced shutdown).",2455,47,,1
+808,17/01/2019,23,Extreme weather resulted in tower vibration (forced shutdown).,3279,76,,2
+809,23/01/2019,28,Incorrect input for the yaw system resulted in trip (forced shutdown).,2309,44,,1
+810,30/01/2019,28,Ventilation error for the generator resulted in overheating (forced shutdown).,2427,51,,2
+811,04/02/2019,11,"Construction error (misalignment, bolts not tightened) for the main shaft resulted in vibration (forced shutdown).",2409,49,,1
+812,09/02/2019,15,Incorrect input for the brake system resulted in trip (forced shutdown).,2517,51,,2
+813,16/02/2019,29,Contamination (salt build up) on the transformer resulted in trip (forced shutdown).,5878,44,,2
+814,20/02/2019,19,Construction error of the gearbox resulted in oil Leakage. Impact: Slippery floor,6421,23,Slippery floor,1
+815,24/02/2019,1,"Collision with flock of birds of the blade resulted in rupture. Impact: Collision filmed, national news media; 80 complaints.  ",997715,731,"Collision filmed, national news media; 80 complaints.  ",4
+816,27/02/2019,2,Incorrect input for the yaw system resulted in trip (forced shutdown).,2688,49,,2
+817,03/03/2019,23,"Construction error (misalignment, bolts not tightened) for the main shaft resulted in vibration (forced shutdown).",2493,48,,1
+818,04/03/2019,12,Incorrect input for the pitch system resulted in trip (forced shutdown).,2457,47,,1
+819,06/03/2019,29,Imbalance of the blade resulted in vibration (forced shutdown).,21337,78,,2
+820,08/03/2019,10,Market demand on the vessel resulted in it being unavailable .,1500,79,,2
+821,10/03/2019,18,"Collision with flock of birds of the blade resulted in rupture. Impact: Collision filmed, national news media; 80 complaints.  ",1036342,707,"Collision filmed, national news media; 80 complaints.  ",4
+822,14/03/2019,31,Imbalance of the blade resulted in vibration (forced shutdown).,23751,72,,2
+823,16/03/2019,35,Incorrect input for the yaw system resulted in trip (forced shutdown).,2652,52,,2
+824,21/03/2019,24,Ventilation error for the generator resulted in overheating (forced shutdown).,2319,52,,2
+825,24/03/2019,21,Incorrect input for the pitch system resulted in trip (forced shutdown).,2601,48,,1
+826,31/03/2019,34,Slippery stairs resulted in personnel falling. Impact: Long absence,1500,0,Long absence,3
+827,31/03/2019,28,Contamination (salt build up) on the transformer resulted in trip (forced shutdown).,6455,49,,2
+828,03/04/2019,18,Ventilation error for the generator resulted in overheating (forced shutdown).,2601,52,,2
+829,08/04/2019,2,Construction error of the gearbox resulted in oil Leakage. Impact: Slippery floor,7989,24,Slippery floor,2
+830,09/04/2019,23,Incorrect input for the yaw system resulted in trip (forced shutdown).,2394,49,,1
+831,09/04/2019,19,Incorrect input for the pitch system resulted in trip (forced shutdown).,2480,44,,1
+832,13/04/2019,9,Incorrect input for the pitch system resulted in trip (forced shutdown).,2433,51,,2
+833,13/04/2019,14,"Collision with flock of birds of the blade resulted in rupture. Impact: Collision filmed, national news media; 80 complaints.  ",957458,705,"Collision filmed, national news media; 80 complaints.  ",4
+834,15/04/2019,14,"Construction error (misalignment, bolts not tightened) for the main shaft resulted in vibration (forced shutdown).",2528,47,,1
+835,20/04/2019,17,Incorrect input for the yaw system resulted in trip (forced shutdown).,2551,45,,1
+836,22/04/2019,28,Construction error of the gearbox resulted in oil Leakage. Impact: Slippery floor,7544,26,Slippery floor,2
+837,24/04/2019,13,Incorrect input for the brake system resulted in trip (forced shutdown).,2579,53,,2
+838,28/04/2019,7,Incorrect input for the brake system resulted in trip (forced shutdown).,2361,52,,2
+839,03/05/2019,7,Construction error of the gearbox resulted in oil Leakage. Impact: Slippery floor,8432,22,Slippery floor,2
+840,03/05/2019,13,Overload of the gearbox resulted in tooth failure.,71123,151,,2
+841,08/05/2019,20,Imbalance of the blade resulted in vibration (forced shutdown).,20276,78,,2
+842,11/05/2019,33,Extreme weather resulted in substructure developing acrack.,335885,671,,3
+843,15/05/2019,24,Incorrect input for the pitch system resulted in trip (forced shutdown).,2621,47,,1
+844,20/05/2019,1,Imbalance of the blade resulted in vibration (forced shutdown).,24169,67,,2
+845,23/05/2019,24,Incorrect input for the pitch system resulted in trip (forced shutdown).,2465,50,,1
+846,23/05/2019,26,Incorrect input for the pitch system resulted in trip (forced shutdown).,2344,44,,1
+847,24/05/2019,30,Imbalance of the blade resulted in vibration (forced shutdown).,21634,72,,2
+848,26/05/2019,30,Imbalance of the blade resulted in vibration (forced shutdown).,24302,70,,2
+849,27/05/2019,31,Contamination (salt build up) on the transformer resulted in trip (forced shutdown).,5924,49,,2
+850,03/06/2019,27,Construction error of the gearbox resulted in oil Leakage. Impact: Slippery floor,7009,22,Slippery floor,2
+851,03/06/2019,30,Incorrect input for the brake system resulted in trip (forced shutdown).,2659,45,,1
+852,10/06/2019,21,Imbalance of the blade resulted in vibration (forced shutdown).,22756,70,,2
+853,11/06/2019,15,Incorrect input for the brake system resulted in trip (forced shutdown).,2379,45,,1
+854,17/06/2019,17,Construction error of the gearbox resulted in oil Leakage. Impact: Slippery floor,6317,22,Slippery floor,1
+855,21/06/2019,26,Contamination (salt build up) on the transformer resulted in trip (forced shutdown).,7341,44,,2
+856,23/06/2019,7,Incorrect input for the brake system resulted in trip (forced shutdown).,2551,47,,1
+857,28/06/2019,29,Incorrect input for the yaw system resulted in trip (forced shutdown).,2687,50,,2
+858,03/07/2019,13,Ventilation error for the generator resulted in overheating (forced shutdown).,2540,44,,1
+859,08/07/2019,32,Contamination (salt build up) on the transformer resulted in trip (forced shutdown).,6131,50,,2
+860,12/07/2019,6,Construction error of the gearbox resulted in oil Leakage. Impact: Slippery floor,7862,22,Slippery floor,2
+861,17/07/2019,12,"Collision with flock of birds of the blade resulted in rupture. Impact: Collision filmed, national news media; 80 complaints.  ",965883,649,"Collision filmed, national news media; 80 complaints.  ",4
+862,20/07/2019,27,Slippery stairs resulted in personnel falling. Impact: Long absence,1500,0,Long absence,3
+863,23/07/2019,24,"Construction error of the transformer resulted in leakage. Impact: 200 ltr oil spilled into sea, 0,8 km2 lightly polluted.",21117,70,"200 ltr oil spilled into sea, 0,8 km2 lightly polluted.",3
+864,27/07/2019,20,Voltage spike for the generator resulted in trip (forced shutdown).,2581,50,,2
+865,30/07/2019,7,Voltage spike for the generator resulted in trip (forced shutdown).,2643,45,,1
+866,05/08/2019,23,Construction error of the gearbox resulted in oil Leakage. Impact: Slippery floor,6967,23,Slippery floor,2
+867,11/08/2019,23,Ventilation error for the generator resulted in overheating (forced shutdown).,2493,46,,1
+868,13/08/2019,22,Contamination (salt build up) on the transformer resulted in trip (forced shutdown).,6862,43,,2
+869,19/08/2019,19,Slippery stairs resulted in personnel falling. Impact: Long absence,1500,0,Long absence,3
+870,24/08/2019,16,Voltage spike for the generator resulted in trip (forced shutdown).,2646,50,,2
+871,28/08/2019,23,Incorrect input for the yaw system resulted in trip (forced shutdown).,2592,52,,2
+872,29/08/2019,26,Overload of the gearbox resulted in tooth failure.,72903,172,,2
+873,01/09/2019,24,Incorrect input for the pitch system resulted in trip (forced shutdown).,2308,51,,1
+874,05/09/2019,10,Incorrect input for the brake system resulted in trip (forced shutdown).,2496,50,,1
+875,12/09/2019,12,Imbalance of the blade resulted in vibration (forced shutdown).,20161,72,,2
+876,14/09/2019,10,Slippery stairs resulted in personnel falling. Impact: Long absence,1500,0,Long absence,3
+877,21/09/2019,6,Imbalance of the blade resulted in vibration (forced shutdown).,21919,77,,2
+878,22/09/2019,34,Incorrect input for the yaw system resulted in trip (forced shutdown).,2607,47,,1
+879,27/09/2019,7,Ventilation error for the generator resulted in overheating (forced shutdown).,2354,44,,1
+880,27/09/2019,30,Contamination (salt build up) on the transformer resulted in trip (forced shutdown).,6130,49,,2
+881,02/10/2019,2,Imbalance of the blade resulted in vibration (forced shutdown).,25388,76,,2
+882,06/10/2019,24,Imbalance of the blade resulted in vibration (forced shutdown).,21285,67,,2
+883,12/10/2019,7,Incorrect input for the yaw system resulted in trip (forced shutdown).,2629,44,,1
+884,18/10/2019,34,"Construction error (misalignment, bolts not tightened) for the main shaft resulted in vibration (forced shutdown).",2432,49,,1
+885,22/10/2019,27,Contamination (salt build up) on the transformer resulted in trip (forced shutdown).,6312,49,,2
+886,24/10/2019,1,Imbalance of the blade resulted in vibration (forced shutdown).,21464,68,,2
+887,28/10/2019,6,Incorrect input for the yaw system resulted in trip (forced shutdown).,2427,47,,1
+888,03/11/2019,32,Extreme weather resulted in tower vibration (forced shutdown).,2713,74,,2
+889,06/11/2019,30,Construction error of the gearbox resulted in oil Leakage. Impact: Slippery floor,6710,23,Slippery floor,2
+890,13/11/2019,33,Contamination (salt build up) on the transformer resulted in trip (forced shutdown).,5583,50,,2
+891,13/11/2019,17,Voltage spike for the generator resulted in trip (forced shutdown).,2468,45,,1
+892,17/11/2019,9,Contamination (salt build up) on the transformer resulted in trip (forced shutdown).,5888,48,,2
+893,18/11/2019,5,Slippery stairs resulted in personnel falling. Impact: Long absence,1500,0,Long absence,3
+894,20/11/2019,29,"Collision with flock of birds of the blade resulted in rupture. Impact: Collision filmed, national news media; 80 complaints.  ",795371,671,"Collision filmed, national news media; 80 complaints.  ",3
+895,20/11/2019,28,"Construction error (misalignment, bolts not tightened) for the main shaft resulted in vibration (forced shutdown).",2577,46,,1
+896,20/11/2019,7,Incorrect input for the pitch system resulted in trip (forced shutdown).,2445,52,,2
+897,27/11/2019,1,"Construction error (misalignment, bolts not tightened) for the main shaft resulted in vibration (forced shutdown).",2454,45,,1
+898,01/12/2019,22,Overload of the gearbox resulted in tooth failure.,61658,154,,2
+899,05/12/2019,28,Incorrect input for the yaw system resulted in trip (forced shutdown).,2544,50,,2
+900,06/12/2019,30,Incorrect input for the pitch system resulted in trip (forced shutdown).,2536,45,,1
+901,11/12/2019,11,"Construction error (misalignment, bolts not tightened) for the main shaft resulted in vibration (forced shutdown).",2525,48,,1
+902,14/12/2019,6,Contamination (salt build up) on the transformer resulted in trip (forced shutdown).,7337,50,,2
+903,14/12/2019,24,"Construction error (misalignment, bolts not tightened) for the main shaft resulted in vibration (forced shutdown).",2676,52,,2
+904,15/12/2019,28,Construction error of the gearbox resulted in oil Leakage. Impact: Slippery floor,7634,24,Slippery floor,2
+905,20/12/2019,7,Imbalance of the blade resulted in vibration (forced shutdown).,20107,67,,2
+906,27/12/2019,16,Voltage spike for the generator resulted in trip (forced shutdown).,2334,48,,1
+907,02/01/2020,27,Incorrect input for the brake system resulted in trip (forced shutdown).,2458,46,,1
+908,04/01/2020,2,Extreme weather resulted in blade developing an edge crack.,1102077,311,,4
+909,10/01/2020,26,Imbalance of the blade resulted in vibration (forced shutdown).,20617,66,,2
+910,11/01/2020,3,Contamination (salt build up) on the transformer resulted in trip (forced shutdown).,5862,49,,2
+911,14/01/2020,36,Incorrect input for the brake system resulted in trip (forced shutdown).,2503,50,,2
+912,15/01/2020,7,Incorrect input for the brake system resulted in trip (forced shutdown).,2609,44,,1
+913,19/01/2020,7,Imbalance of the blade resulted in vibration (forced shutdown).,18192,69,,2
+914,24/01/2020,18,"Collision with flock of birds of the blade resulted in rupture. Impact: Collision filmed, national news media; 80 complaints.  ",982539,701,"Collision filmed, national news media; 80 complaints.  ",4
+915,28/01/2020,6,Construction error of the gearbox resulted in oil Leakage. Impact: Slippery floor,8189,23,Slippery floor,2
+916,31/01/2020,34,Voltage spike for the generator resulted in trip (forced shutdown).,2580,44,,1
+917,05/02/2020,34,Slippery stairs resulted in personnel falling. Impact: Long absence,1500,0,Long absence,3
+918,11/02/2020,8,Contamination (salt build up) on the transformer resulted in trip (forced shutdown).,6306,46,,2
+919,12/02/2020,36,Incorrect input for the brake system resulted in trip (forced shutdown).,2341,52,,2
+920,12/02/2020,31,Imbalance of the blade resulted in vibration (forced shutdown).,22565,72,,2
+921,19/02/2020,26,Incorrect input for the brake system resulted in trip (forced shutdown).,2559,45,,1
+922,26/02/2020,29,"Construction error (misalignment, bolts not tightened) for the main shaft resulted in vibration (forced shutdown).",2582,52,,2
+923,03/03/2020,34,Imbalance of the blade resulted in vibration (forced shutdown).,20069,73,,2
+924,06/03/2020,25,Contamination (salt build up) on the transformer resulted in trip (forced shutdown).,6074,48,,2
+925,12/03/2020,25,Incorrect input for the brake system resulted in trip (forced shutdown).,2463,46,,1
+926,19/03/2020,25,Corrosion of the tower resulted in loss of strength.,95534,612,,3
+927,19/03/2020,23,Incorrect input for the yaw system resulted in trip (forced shutdown).,2382,49,,1
+928,23/03/2020,7,Extreme weather resulted in blade developing an edge crack.,1034044,329,,4
+929,24/03/2020,28,Extreme weather resulted in tower vibration (forced shutdown).,2927,67,,2
+930,31/03/2020,26,Incorrect input for the yaw system resulted in trip (forced shutdown).,2564,52,,2
+931,05/04/2020,6,Extreme weather resulted in substructure developing acrack.,306761,614,,3
+932,10/04/2020,3,"Construction error (misalignment, bolts not tightened) for the main shaft resulted in vibration (forced shutdown).",2360,50,,1
+933,16/04/2020,9,Incorrect input for the pitch system resulted in trip (forced shutdown).,2487,46,,1
+934,22/04/2020,1,Incorrect input for the yaw system resulted in trip (forced shutdown).,2488,47,,1
+935,26/04/2020,2,Incorrect input for the brake system resulted in trip (forced shutdown).,2522,43,,1
+936,27/04/2020,25,Incorrect input for the yaw system resulted in trip (forced shutdown).,2322,46,,1
+937,30/04/2020,36,Contamination (salt build up) on the transformer resulted in trip (forced shutdown).,6587,43,,2
+938,06/05/2020,27,"Construction error (misalignment, bolts not tightened) for the main shaft resulted in vibration (forced shutdown).",2392,52,,2
+939,08/05/2020,4,Incorrect input for the yaw system resulted in trip (forced shutdown).,2507,44,,1
+940,10/05/2020,29,Incorrect input for the brake system resulted in trip (forced shutdown).,2492,47,,1
+941,12/05/2020,36,Contamination (salt build up) on the transformer resulted in trip (forced shutdown).,6911,45,,2
+942,18/05/2020,1,Incorrect input for the pitch system resulted in trip (forced shutdown).,2502,47,,1
+943,19/05/2020,32,Extreme weather resulted in tower vibration (forced shutdown).,3099,68,,2
+944,23/05/2020,7,Market demand on the vessel resulted in it being unavailable .,1500,74,,2
+945,27/05/2020,10,Incorrect input for the yaw system resulted in trip (forced shutdown).,2618,45,,1
+946,02/06/2020,26,Imbalance of the blade resulted in vibration (forced shutdown).,19719,76,,2
+947,09/06/2020,36,Market demand on the vessel resulted in it being unavailable .,1500,78,,2
+948,15/06/2020,8,Incorrect input for the pitch system resulted in trip (forced shutdown).,2570,52,,2
+949,20/06/2020,18,Ventilation error for the generator resulted in overheating (forced shutdown).,2364,46,,1
+950,25/06/2020,7,"Construction error (misalignment, bolts not tightened) for the main shaft resulted in vibration (forced shutdown).",2655,51,,2
+951,26/06/2020,3,Contamination (salt build up) on the transformer resulted in trip (forced shutdown).,6109,46,,2
+952,01/07/2020,8,Incorrect input for the pitch system resulted in trip (forced shutdown).,2648,50,,2
+953,04/07/2020,18,Imbalance of the blade resulted in vibration (forced shutdown).,22906,75,,2
+954,09/07/2020,18,Extreme weather resulted in tower vibration (forced shutdown).,2846,75,,2
+955,09/07/2020,15,Incorrect input for the yaw system resulted in trip (forced shutdown).,2520,45,,1
+956,12/07/2020,1,Incorrect input for the pitch system resulted in trip (forced shutdown).,2635,48,,1
+957,15/07/2020,27,Incorrect input for the brake system resulted in trip (forced shutdown).,2302,49,,1
+958,18/07/2020,13,Contamination (salt build up) on the transformer resulted in trip (forced shutdown).,6055,47,,2
+959,25/07/2020,2,Construction error of the gearbox resulted in oil Leakage. Impact: Slippery floor,6339,23,Slippery floor,1
+960,27/07/2020,31,Incorrect input for the yaw system resulted in trip (forced shutdown).,2369,51,,2
+961,02/08/2020,20,Construction error of the gearbox resulted in oil Leakage. Impact: Slippery floor,6590,22,Slippery floor,1
+962,06/08/2020,12,Voltage spike for the generator resulted in trip (forced shutdown).,2558,50,,2
+963,06/08/2020,3,Contamination (salt build up) on the transformer resulted in trip (forced shutdown).,7127,49,,2
+964,13/08/2020,35,Incorrect input for the pitch system resulted in trip (forced shutdown).,2407,50,,1
+965,16/08/2020,34,Extreme weather resulted in tower vibration (forced shutdown).,2736,68,,2
+966,22/08/2020,1,Contamination (salt build up) on the transformer resulted in trip (forced shutdown).,6848,48,,2
+967,25/08/2020,17,Extreme weather resulted in tower vibration (forced shutdown).,3062,65,,2
+968,30/08/2020,24,Contamination (salt build up) on the transformer resulted in trip (forced shutdown).,6258,51,,2
+969,06/09/2020,7,Market demand on the vessel resulted in it being unavailable .,1500,72,,2
+970,07/09/2020,18,Incorrect input for the brake system resulted in trip (forced shutdown).,2531,52,,2
+971,14/09/2020,22,Voltage spike for the generator resulted in trip (forced shutdown).,2394,47,,1
+972,15/09/2020,8,Contamination (salt build up) on the transformer resulted in trip (forced shutdown).,7443,44,,2
+973,18/09/2020,14,Imbalance of the blade resulted in vibration (forced shutdown).,19753,75,,2
+974,21/09/2020,24,Construction error of the gearbox resulted in oil Leakage. Impact: Slippery floor,8455,22,Slippery floor,2
+975,26/09/2020,25,Contamination (salt build up) on the transformer resulted in trip (forced shutdown).,6777,48,,2
+976,27/09/2020,31,Incorrect input for the brake system resulted in trip (forced shutdown).,2413,43,,1
+977,29/09/2020,18,"Brake system failure of the rotor resulted in extreme overspeed=> tower collapse. Impact: Collapse filmed, international news media. Some 300 complaints. 5 km2 lightly polluted.",2871541,4696,"Collapse filmed, international news media. Some 300 complaints. 5 km2 lightly polluted.",4
+978,01/10/2020,24,"Construction error of the transformer resulted in leakage. Impact: 200 ltr oil spilled into sea, 0,8 km2 lightly polluted.",19231,70,"200 ltr oil spilled into sea, 0,8 km2 lightly polluted.",3
+979,02/10/2020,1,Incorrect input for the pitch system resulted in trip (forced shutdown).,2684,48,,1
+980,06/10/2020,22,Contamination (salt build up) on the transformer resulted in trip (forced shutdown).,5823,48,,2
+981,06/10/2020,4,Incorrect input for the yaw system resulted in trip (forced shutdown).,2407,51,,2
+982,10/10/2020,26,"Construction error (misalignment, bolts not tightened) for the main shaft resulted in vibration (forced shutdown).",2340,48,,1
+983,13/10/2020,5,Contamination (salt build up) on the transformer resulted in trip (forced shutdown).,7413,49,,2
+984,19/10/2020,10,Imbalance of the blade resulted in vibration (forced shutdown).,18581,66,,2
+985,25/10/2020,7,Imbalance of the blade resulted in vibration (forced shutdown).,21812,79,,2
+986,26/10/2020,15,Imbalance of the blade resulted in vibration (forced shutdown).,20013,68,,2
+987,30/10/2020,12,Incorrect input for the pitch system resulted in trip (forced shutdown).,2556,48,,1
+988,05/11/2020,30,Corrosion of the tower resulted in loss of strength.,89443,683,,3
+989,09/11/2020,27,Incorrect input for the pitch system resulted in trip (forced shutdown).,2602,50,,2
+990,15/11/2020,28,Slippery stairs resulted in personnel falling. Impact: Long absence,1500,0,Long absence,3
+991,16/11/2020,27,Contamination (salt build up) on the transformer resulted in trip (forced shutdown).,5821,44,,2
+992,20/11/2020,8,Ventilation error for the generator resulted in overheating (forced shutdown).,2354,52,,2
+993,24/11/2020,14,Contamination (salt build up) on the transformer resulted in trip (forced shutdown).,7285,45,,2
+994,30/11/2020,36,Slippery stairs resulted in personnel falling. Impact: Long absence,1500,0,Long absence,3
+995,04/12/2020,28,"Construction error (misalignment, bolts not tightened) for the main shaft resulted in vibration (forced shutdown).",2680,51,,2
+996,07/12/2020,7,Incorrect input for the yaw system resulted in trip (forced shutdown).,2639,49,,1
+997,13/12/2020,29,Imbalance of the blade resulted in vibration (forced shutdown).,18506,79,,2
+998,18/12/2020,2,Incorrect input for the yaw system resulted in trip (forced shutdown).,2575,47,,1
+999,25/12/2020,31,Incorrect input for the yaw system resulted in trip (forced shutdown).,2347,52,,2
+1000,01/01/2021,30,Construction error of the gearbox resulted in oil Leakage. Impact: Slippery floor,8551,26,Slippery floor,2
+1001,02/01/2021,34,Wear of the cable resulted in short circuit.,56030,180,,
+1002,03/01/2021,7,"Construction error (misalignment, bolts not tightened) for the main shaft resulted in vibration (forced shutdown).",2614,49,,
+1003,09/01/2021,25,"Construction error (misalignment, bolts not tightened) for the main shaft resulted in vibration (forced shutdown).",2332,48,,
+1004,14/01/2021,6,Imbalance of the blade resulted in vibration (forced shutdown).,19737,74,,
+1005,17/01/2021,22,Imbalance of the blade resulted in vibration (forced shutdown).,24692,70,,
+1006,23/01/2021,36,"Construction error (misalignment, bolts not tightened) for the main shaft resulted in vibration (forced shutdown).",2506,48,,
+1007,30/01/2021,7,Slippery stairs resulted in personnel falling. Impact: Long absence,1500,0,Long absence,
+1008,03/02/2021,12,Contamination (salt build up) on the transformer resulted in trip (forced shutdown).,5804,44,,
+1009,06/02/2021,29,Contamination (salt build up) on the transformer resulted in trip (forced shutdown).,5818,53,,
+1010,06/02/2021,28,Imbalance of the blade resulted in vibration (forced shutdown).,17941,71,,
+1011,12/02/2021,17,Incorrect input for the yaw system resulted in trip (forced shutdown).,2392,47,,
+1012,15/02/2021,23,Incorrect input for the pitch system resulted in trip (forced shutdown).,2326,43,,
+1013,19/02/2021,6,"Brake system failure of the rotor resulted in extreme overspeed=> tower collapse. Impact: Collapse filmed, international news media. Some 300 complaints. 5 km2 lightly polluted.",2683829,4887,"Collapse filmed, international news media. Some 300 complaints. 5 km2 lightly polluted.",
+1014,24/02/2021,27,Overload of the gearbox resulted in tooth failure.,64976,176,,
+1015,25/02/2021,34,Imbalance of the blade resulted in vibration (forced shutdown).,18215,76,,
+1016,03/03/2021,6,Contamination (salt build up) on the transformer resulted in trip (forced shutdown).,7176,47,,
+1017,07/03/2021,33,Incorrect input for the yaw system resulted in trip (forced shutdown).,2507,45,,
+1018,09/03/2021,3,Contamination (salt build up) on the transformer resulted in trip (forced shutdown).,6648,47,,
+1019,10/03/2021,34,Construction error of the gearbox resulted in oil Leakage. Impact: Slippery floor,6589,26,Slippery floor,
+1020,12/03/2021,31,Imbalance of the blade resulted in vibration (forced shutdown).,24932,67,,
+1021,17/03/2021,7,Imbalance of the blade resulted in vibration (forced shutdown).,20988,70,,
+1022,18/03/2021,27,Contamination (salt build up) on the transformer resulted in trip (forced shutdown).,5598,48,,
+1023,19/03/2021,19,"Construction error (misalignment, bolts not tightened) for the main shaft resulted in vibration (forced shutdown).",2567,45,,
+1024,23/03/2021,23,Incorrect input for the brake system resulted in trip (forced shutdown).,2304,48,,
+1025,29/03/2021,12,"Construction error (misalignment, bolts not tightened) for the main shaft resulted in vibration (forced shutdown).",2690,50,,
+1026,03/04/2021,34,Incorrect input for the yaw system resulted in trip (forced shutdown).,2494,47,,
+1027,03/04/2021,21,Contamination (salt build up) on the transformer resulted in trip (forced shutdown).,6473,44,,
+1028,10/04/2021,12,Imbalance of the blade resulted in vibration (forced shutdown).,23901,74,,
+1029,17/04/2021,13,Incorrect input for the pitch system resulted in trip (forced shutdown).,2477,45,,
+1030,19/04/2021,1,Extreme weather resulted in blade developing an edge crack.,1015524,341,,
+1031,25/04/2021,31,Incorrect input for the pitch system resulted in trip (forced shutdown).,2351,48,,
+1032,25/04/2021,11,Incorrect input for the yaw system resulted in trip (forced shutdown).,2355,47,,
+1033,30/04/2021,4,Incorrect input for the brake system resulted in trip (forced shutdown).,2493,45,,
+1034,04/05/2021,9,Contamination (salt build up) on the transformer resulted in trip (forced shutdown).,6522,43,,
+1035,11/05/2021,20,Ventilation error for the generator resulted in overheating (forced shutdown).,2532,53,,
+1036,14/05/2021,36,Imbalance of the blade resulted in vibration (forced shutdown).,19976,68,,
+1037,17/05/2021,3,Incorrect input for the brake system resulted in trip (forced shutdown).,2436,51,,
+1038,19/05/2021,30,Incorrect input for the brake system resulted in trip (forced shutdown).,2504,44,,
+1039,26/05/2021,8,Extreme weather resulted in substructure developing acrack.,260922,620,,
+1040,30/05/2021,33,Contamination (salt build up) on the transformer resulted in trip (forced shutdown).,6773,48,,
+1041,03/06/2021,7,Construction error of the gearbox resulted in oil Leakage. Impact: Slippery floor,7206,22,Slippery floor,
+1042,04/06/2021,15,Slippery stairs resulted in personnel falling. Impact: Long absence,1500,0,Long absence,
+1043,05/06/2021,26,Ventilation error for the generator resulted in overheating (forced shutdown).,2566,44,,
+1044,07/06/2021,36,Incorrect input for the pitch system resulted in trip (forced shutdown).,2417,51,,
+1045,10/06/2021,7,Slippery stairs resulted in personnel falling. Impact: Long absence,1500,0,Long absence,
+1046,12/06/2021,7,Slippery stairs resulted in personnel falling. Impact: Long absence,1500,0,Long absence,
+1047,17/06/2021,10,Incorrect input for the brake system resulted in trip (forced shutdown).,2594,49,,
+1048,24/06/2021,32,Incorrect input for the pitch system resulted in trip (forced shutdown).,2454,47,,
+1049,27/06/2021,20,Incorrect input for the pitch system resulted in trip (forced shutdown).,2657,47,,
+1050,30/06/2021,23,Construction error of the gearbox resulted in oil Leakage. Impact: Slippery floor,7930,23,Slippery floor,
+1051,07/07/2021,14,"Construction error (misalignment, bolts not tightened) for the main shaft resulted in vibration (forced shutdown).",2509,50,,
+1052,11/07/2021,26,Construction error of the gearbox resulted in oil Leakage. Impact: Slippery floor,6983,23,Slippery floor,
+1053,16/07/2021,27,Incorrect input for the yaw system resulted in trip (forced shutdown).,2632,44,,
+1054,19/07/2021,7,Ventilation error for the generator resulted in overheating (forced shutdown).,2618,47,,
+1055,21/07/2021,7,Extreme weather resulted in blade developing an edge crack.,978354,325,,
+1056,25/07/2021,6,Incorrect input for the yaw system resulted in trip (forced shutdown).,2382,47,,
+1057,30/07/2021,15,Contamination (salt build up) on the transformer resulted in trip (forced shutdown).,6801,49,,
+1058,31/07/2021,23,Contamination (salt build up) on the transformer resulted in trip (forced shutdown).,6809,48,,
+1059,04/08/2021,29,Incorrect input for the pitch system resulted in trip (forced shutdown).,2681,51,,
+1060,06/08/2021,7,Imbalance of the blade resulted in vibration (forced shutdown).,17730,67,,
+1061,07/08/2021,8,Contamination (salt build up) on the transformer resulted in trip (forced shutdown).,7087,49,,
+1062,13/08/2021,30,Contamination (salt build up) on the transformer resulted in trip (forced shutdown).,7042,50,,
+1063,14/08/2021,10,Contamination (salt build up) on the transformer resulted in trip (forced shutdown).,6829,51,,
+1064,17/08/2021,11,Incorrect input for the pitch system resulted in trip (forced shutdown).,2453,43,,
+1065,24/08/2021,27,Contamination (salt build up) on the transformer resulted in trip (forced shutdown).,5823,49,,
+1066,30/08/2021,4,"Construction error (misalignment, bolts not tightened) for the main shaft resulted in vibration (forced shutdown).",2464,44,,
+1067,31/08/2021,17,Voltage spike for the generator resulted in trip (forced shutdown).,2407,44,,
+1068,03/09/2021,19,Incorrect input for the yaw system resulted in trip (forced shutdown).,2687,45,,
+1069,08/09/2021,8,"Construction error (misalignment, bolts not tightened) for the main shaft resulted in vibration (forced shutdown).",2453,50,,
+1070,11/09/2021,6,Extreme weather resulted in tower vibration (forced shutdown).,2726,67,,
+1071,14/09/2021,19,Extreme weather resulted in blade developing an edge crack.,1055426,319,,
+1072,16/09/2021,21,Incorrect input for the pitch system resulted in trip (forced shutdown).,2358,44,,
+1073,19/09/2021,25,Incorrect input for the pitch system resulted in trip (forced shutdown).,2432,46,,
+1074,22/09/2021,4,Contamination (salt build up) on the transformer resulted in trip (forced shutdown).,5613,48,,
+1075,28/09/2021,1,Incorrect input for the yaw system resulted in trip (forced shutdown).,2618,53,,
+1076,05/10/2021,8,Contamination (salt build up) on the transformer resulted in trip (forced shutdown).,6997,46,,
+1077,11/10/2021,28,Ventilation error for the generator resulted in overheating (forced shutdown).,2653,52,,
+1078,12/10/2021,32,Construction error of the gearbox resulted in oil Leakage. Impact: Slippery floor,7976,22,Slippery floor,
+1079,16/10/2021,3,Contamination (salt build up) on the transformer resulted in trip (forced shutdown).,7344,44,,
+1080,19/10/2021,25,Incorrect input for the brake system resulted in trip (forced shutdown).,2372,53,,
+1081,26/10/2021,7,Ventilation error for the generator resulted in overheating (forced shutdown).,2679,51,,
+1082,28/10/2021,26,Imbalance of the blade resulted in vibration (forced shutdown).,19781,78,,
+1083,02/11/2021,6,Overload of the gearbox resulted in tooth failure.,69989,167,,
+1084,05/11/2021,6,Imbalance of the blade resulted in vibration (forced shutdown).,23274,74,,
+1085,06/11/2021,30,Contamination (salt build up) on the transformer resulted in trip (forced shutdown).,6937,48,,
+1086,09/11/2021,4,Contamination (salt build up) on the transformer resulted in trip (forced shutdown).,6807,45,,
+1087,15/11/2021,20,Incorrect input for the yaw system resulted in trip (forced shutdown).,2660,48,,
+1088,22/11/2021,30,Wear of the cable resulted in short circuit.,42338,164,,
+1089,26/11/2021,24,Extreme weather resulted in substructure developing acrack.,265312,616,,
+1090,27/11/2021,19,Incorrect input for the pitch system resulted in trip (forced shutdown).,2645,49,,
+1091,02/12/2021,24,"Construction error (misalignment, bolts not tightened) for the main shaft resulted in vibration (forced shutdown).",2652,47,,
+1092,05/12/2021,12,Incorrect input for the yaw system resulted in trip (forced shutdown).,2476,46,,
+1093,09/12/2021,36,Contamination (salt build up) on the transformer resulted in trip (forced shutdown).,7418,51,,
+1094,09/12/2021,13,Slippery stairs resulted in personnel falling. Impact: Long absence,1500,0,Long absence,
+1095,14/12/2021,1,Contamination (salt build up) on the transformer resulted in trip (forced shutdown).,7021,50,,
+1096,16/12/2021,2,Incorrect input for the brake system resulted in trip (forced shutdown).,2332,48,,
+1097,23/12/2021,35,Construction error of the gearbox resulted in oil Leakage. Impact: Slippery floor,6682,23,Slippery floor,
+1098,25/12/2021,2,Imbalance of the blade resulted in vibration (forced shutdown).,18600,65,,
+1099,27/12/2021,29,Incorrect input for the pitch system resulted in trip (forced shutdown).,2569,46,,
+1100,31/12/2021,14,"Construction error (misalignment, bolts not tightened) for the main shaft resulted in vibration (forced shutdown).",2364,52,,
